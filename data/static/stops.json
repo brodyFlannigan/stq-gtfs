@@ -1,0 +1,192 @@
+{
+  "fields": [
+    "stop_id",
+    "stop_name",
+    "stop_lat",
+    "stop_lon",
+    "location_type",
+    "stop_timezone",
+    "wheelchair_boarding"
+  ],
+  "data": [
+    {
+      "stop_id": "CAM",
+      "stop_name": "Cap-aux-Meules",
+      "stop_lat": "47.3808",
+      "stop_lon": "-61.85442",
+      "location_type": "0",
+      "stop_timezone": "America/Halifax"
+    },
+    {
+      "stop_id": "CHE",
+      "stop_name": "Chevery",
+      "stop_lat": "50.47089",
+      "stop_lon": "-59.607067",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal"
+    },
+    {
+      "stop_id": "BSC",
+      "stop_name": "Gare fluviale de Baie-Sainte-Catherine",
+      "stop_lat": "48.12648",
+      "stop_lon": "-69.7297",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "LEV",
+      "stop_name": "Gare fluviale de Lévis",
+      "stop_lat": "46.810658",
+      "stop_lon": "-71.18824",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "QUE",
+      "stop_name": "Gare fluviale de Québec",
+      "stop_lat": "46.811848",
+      "stop_lon": "-71.2017",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "SIL",
+      "stop_name": "Gare fluviale de Saint-Ignace-de-Loyola",
+      "stop_lat": "46.05956",
+      "stop_lon": "-73.1261",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "SOR",
+      "stop_name": "Gare fluviale de Sorel-Tracy",
+      "stop_lat": "46.04792",
+      "stop_lon": "-73.11375",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "TAD",
+      "stop_name": "Gare fluviale de Tadoussac",
+      "stop_lat": "48.139328",
+      "stop_lon": "-69.72669",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "BCO",
+      "stop_name": "Gare maritime de Baie-Comeau",
+      "stop_lat": "49.23286",
+      "stop_lon": "-68.133286",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "GDB",
+      "stop_name": "Gare maritime de Godbout",
+      "stop_lat": "49.322025",
+      "stop_lon": "-67.59294",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "IAC",
+      "stop_name": "Gare maritime de L'Isle-aux-Coudres",
+      "stop_lat": "47.420685",
+      "stop_lon": "-70.3919",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal"
+    },
+    {
+      "stop_id": "MTN",
+      "stop_name": "Gare maritime de Matane",
+      "stop_lat": "48.844467",
+      "stop_lon": "-67.57347",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "SJR",
+      "stop_name": "Gare maritime de Saint-Joseph-de-la-Rive",
+      "stop_lat": "47.450684",
+      "stop_lon": "-70.36624",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal"
+    },
+    {
+      "stop_id": "HHB",
+      "stop_name": "Harrington Harbour",
+      "stop_lat": "50.496346",
+      "stop_lon": "-59.475674",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal"
+    },
+    {
+      "stop_id": "ISV",
+      "stop_name": "L'Isle Verte",
+      "stop_lat": "48.02474",
+      "stop_lon": "-69.34856",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal"
+    },
+    {
+      "stop_id": "IAG",
+      "stop_name": "L'Isle-aux-Grues",
+      "stop_lat": "47.055244",
+      "stop_lon": "-70.53188",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "MMG",
+      "stop_name": "Montmagny",
+      "stop_lat": "46.99012",
+      "stop_lon": "-70.553535",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal",
+      "wheelchair_boarding": "1"
+    },
+    {
+      "stop_id": "NSD",
+      "stop_name": "Notre-Dame-des-Sept-Douleurs",
+      "stop_lat": "48.039932",
+      "stop_lon": "-69.406746",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal"
+    },
+    {
+      "stop_id": "PKS",
+      "stop_name": "Pakuashipi",
+      "stop_lat": "51.21966",
+      "stop_lon": "-58.66305",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal"
+    },
+    {
+      "stop_id": "SAG",
+      "stop_name": "Saint-Augustin",
+      "stop_lat": "51.226437",
+      "stop_lon": "-58.654743",
+      "location_type": "0",
+      "stop_timezone": "America/Montreal"
+    },
+    {
+      "stop_id": "IEN",
+      "stop_name": "Île d'Entrée",
+      "stop_lat": "47.278244",
+      "stop_lon": "-61.71696",
+      "location_type": "0",
+      "stop_timezone": "America/Halifax"
+    }
+  ]
+}

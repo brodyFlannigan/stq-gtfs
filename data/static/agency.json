@@ -1,0 +1,14 @@
+{
+    "fields": ["agency_id", "agency_name", "agency_url", "agency_timezone", "agency_lang", "agency_phone"],
+    "data": [
+      {
+        "agency_id": "STQ",
+        "agency_name": "Société des Traversiers du Québec",
+        "agency_url": "https://traversiers.com",
+        "agency_timezone": "America/Montreal",
+        "agency_lang": "fr",
+        "agency_phone": "1 877 787-7483"
+      }
+    ]
+  }
+  

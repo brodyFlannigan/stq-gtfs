@@ -1,0 +1,22 @@
+stop_id,stop_name,stop_lat,stop_lon,location_type,stop_timezone,wheelchair_boarding
+BCO,Gare maritime de Baie-Comeau,49.23286,-68.133286,0,America/Montreal,1
+BSC,Gare fluviale de Baie-Sainte-Catherine,48.12648,-69.7297,0,America/Montreal,1
+CAM,Cap-aux-Meules,47.3808,-61.85442,0,America/Halifax,
+CHE,Chevery,50.47089,-59.607067,0,America/Montreal,
+GDB,Gare maritime de Godbout,49.322025,-67.59294,0,America/Montreal,1
+HHB,Harrington Harbour,50.496346,-59.475674,0,America/Montreal,
+IAC,Gare maritime de L'Isle-aux-Coudres,47.420685,-70.3919,0,America/Montreal,
+IAG,L'Isle-aux-Grues,47.055244,-70.53188,0,America/Montreal,1
+IEN,Île d'Entrée,47.278244,-61.71696,0,America/Halifax,
+ISV,L'Isle Verte,48.02474,-69.34856,0,America/Montreal,
+LEV,Gare fluviale de Lévis,46.810658,-71.18824,0,America/Montreal,1
+MMG,Montmagny,46.99012,-70.553535,0,America/Montreal,1
+MTN,Gare maritime de Matane,48.844467,-67.57347,0,America/Montreal,1
+NSD,Notre-Dame-des-Sept-Douleurs,48.039932,-69.406746,0,America/Montreal,
+PKS,Pakuashipi,51.21966,-58.66305,0,America/Montreal,
+QUE,Gare fluviale de Québec,46.811848,-71.2017,0,America/Montreal,1
+SAG,Saint-Augustin,51.226437,-58.654743,0,America/Montreal,
+SIL,Gare fluviale de Saint-Ignace-de-Loyola,46.05956,-73.1261,0,America/Montreal,1
+SJR,Gare maritime de Saint-Joseph-de-la-Rive,47.450684,-70.36624,0,America/Montreal,
+SOR,Gare fluviale de Sorel-Tracy,46.04792,-73.11375,0,America/Montreal,1
+TAD,Gare fluviale de Tadoussac,48.139328,-69.72669,0,America/Montreal,1

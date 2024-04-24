@@ -1,0 +1,129 @@
+{
+  "fields": [
+    "attribution_id",
+    "route_id",
+    "organization_name",
+    "is_producer",
+    "is_operator",
+    "is_authority",
+    "attribution_url"
+  ],
+  "data": [
+    {
+      "attribution_id": "PROD_BFTD",
+      "organization_name": "Brody Flannigan Transit Data",
+      "is_producer": "1",
+      "is_operator": "0",
+      "is_authority": "0",
+      "attribution_url": "https://transitdata.ca"
+    },
+    {
+      "attribution_id": "STQ_sorel",
+      "route_id": "sorel",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "STQ_quebec",
+      "route_id": "quebec",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "STQ_l-isle-aux-grues-montmagny",
+      "route_id": "l-isle-aux-grues-montmagny",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "STQ_isle-aux-coudres",
+      "route_id": "isle-aux-coudres",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "STQ_tadoussac",
+      "route_id": "tadoussac",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "STQ_i-v-n-d-des-sept-douleurs",
+      "route_id": "i-v-n-d-des-sept-douleurs",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "0",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "SIRDIV_i-v-n-d-des-sept-douleurs",
+      "route_id": "i-v-n-d-des-sept-douleurs",
+      "organization_name": "Société Inter-Rives de l'Île-Verte",
+      "is_producer": "0",
+      "is_operator": "0",
+      "is_authority": "1",
+      "attribution_url": "https://traverseileverte.quebec/"
+    },
+    {
+      "attribution_id": "STQ_matane",
+      "route_id": "matane",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "STQ_h-harbour-chevery",
+      "route_id": "h-harbour-chevery",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "STQ_riv-st-augustin",
+      "route_id": "riv-st-augustin",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "STQ_ile-d-entree-cap-aux-meules",
+      "route_id": "ile-d-entree-cap-aux-meules",
+      "organization_name": "Société des Traversiers du Québec",
+      "is_producer": "0",
+      "is_operator": "0",
+      "is_authority": "1",
+      "attribution_url": "https://traversiers.com"
+    },
+    {
+      "attribution_id": "CTMA_ile-d-entree-cap-aux-meules",
+      "route_id": "ile-d-entree-cap-aux-meules",
+      "organization_name": "CTMA",
+      "is_producer": "0",
+      "is_operator": "1",
+      "is_authority": "0",
+      "attribution_url": "https://www.traversierctma.ca/fr/autres-services/traversier-cap-aux-meules-ile-d-entree"
+    }
+  ]
+}

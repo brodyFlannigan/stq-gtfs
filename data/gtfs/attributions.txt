@@ -1,0 +1,14 @@
+attribution_id,route_id,organization_name,is_producer,is_operator,is_authority,attribution_url
+CTMA_ile-d-entree-cap-aux-meules,ile-d-entree-cap-aux-meules,CTMA,0,1,0,https://www.traversierctma.ca/fr/autres-services/traversier-cap-aux-meules-ile-d-entree
+PROD_BFTD,,Brody Flannigan Transit Data,1,0,0,https://transitdata.ca
+SIRDIV_i-v-n-d-des-sept-douleurs,i-v-n-d-des-sept-douleurs,Société Inter-Rives de l'Île-Verte,0,0,1,https://traverseileverte.quebec/
+STQ_h-harbour-chevery,h-harbour-chevery,Société des Traversiers du Québec,0,1,1,https://traversiers.com
+STQ_i-v-n-d-des-sept-douleurs,i-v-n-d-des-sept-douleurs,Société des Traversiers du Québec,0,1,0,https://traversiers.com
+STQ_ile-d-entree-cap-aux-meules,ile-d-entree-cap-aux-meules,Société des Traversiers du Québec,0,0,1,https://traversiers.com
+STQ_isle-aux-coudres,isle-aux-coudres,Société des Traversiers du Québec,0,1,1,https://traversiers.com
+STQ_l-isle-aux-grues-montmagny,l-isle-aux-grues-montmagny,Société des Traversiers du Québec,0,1,1,https://traversiers.com
+STQ_matane,matane,Société des Traversiers du Québec,0,1,1,https://traversiers.com
+STQ_quebec,quebec,Société des Traversiers du Québec,0,1,1,https://traversiers.com
+STQ_riv-st-augustin,riv-st-augustin,Société des Traversiers du Québec,0,1,1,https://traversiers.com
+STQ_sorel,sorel,Société des Traversiers du Québec,0,1,1,https://traversiers.com
+STQ_tadoussac,tadoussac,Société des Traversiers du Québec,0,1,1,https://traversiers.com
