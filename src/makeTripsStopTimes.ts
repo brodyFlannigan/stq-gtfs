@@ -41,18 +41,6 @@ function getAdjustedTime(time: string, tripDate: string, serviceDate: string, st
 
     const serviceTripDateDifference = differenceInDays(normalizedTripDateTime, normalizedServiceDateTime)
 
-    console.log(`Trip time: ${time} - Trip date: ${tripDate} - Service date: ${serviceDate} - Stop ID: ${stopId}\n
-    Local trip time: ${localTripDateTime}\n
-    Local service date time: ${localServiceDateTime}\n
-    Stop timezone: ${localTimeZone}
-    UTC trip time: ${utcTripDateTime}\n
-    UTC service time: ${utcServiceDateTime}\n
-    Normalized trip time: ${normalizedTripDateTime}\n
-    Normalized service date: ${normalizedServiceDateTime}\n
-    Difference between trip & service date: ${serviceTripDateDifference}\n
-    ============
-    `)
-
     const adjustedTripHours = getHours(normalizedTripDateTime)
     const adjustmentToTripHours = 0
     if (tripDate != serviceDate) {
@@ -101,6 +89,8 @@ function addMinutesToTime(time: string, minutesToAdd: number): string {
       pickup_type: string;
       drop_off_type: string;
     }[] = [];
+    const existingTripIds = new Set();
+
   
     scheduleData.forEach(({ route, data }) => {
       const patterns = servicePatterns.find(
@@ -124,12 +114,17 @@ function addMinutesToTime(time: string, minutesToAdd: number): string {
   
         trajet.jour.forEach((jour) => {
           jour.depart.forEach((depart: { heure: string; date: string; }) => {
-            const serviceId = jour.date.replace(/-/g, "");
+            const serviceId = jour.date
             const departureTime = getAdjustedTime(depart.heure, depart.date, jour.date, pattern.gtfs_departure_stop_id);
             const tripId = `${route}_${serviceId}_${
               pattern.gtfs_departure_stop_id
             }_${pattern.gtfs_arrival_stop_id}_${departureTime.replace(/:/g, "")}`;
-  
+
+          if (existingTripIds.has(tripId)) {
+            console.log(`Duplicate trip_id found: ${tripId}, skipping.`);
+            return;
+          }
+          existingTripIds.add(tripId);
             const arrivalTimeAtFirstStop = departureTime;
             const travelMinutes = pattern.travel_minutes;
             const arrivalTimeAtSecondStop = addMinutesToTime(arrivalTimeAtFirstStop, travelMinutes);
