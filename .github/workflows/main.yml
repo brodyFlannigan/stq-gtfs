@@ -34,5 +34,4 @@ jobs:
           title: ${{ steps.vars.outputs.pr_title }}
           body: ${{ steps.vars.outputs.pr_body }}
           branch: latest-gtfs
-          base: main
           delete-branch: true
