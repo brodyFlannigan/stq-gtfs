@@ -224,6 +224,29 @@
             "travel_minutes": 5
           }
         ]
+      }, {
+        "route_id": "ile-d-entree-cap-aux-meules",
+        "access_data": { "wheelchair_accessible": "0", "bikes_allowed": "1" },
+        "service_patterns": [
+          {
+            "departure_shore": "Ile d'Entrée",
+            "arrival_shore": "Cap-aux-Meules",
+            "gtfs_direction_id": "0",
+            "gtfs_trip_headsign": "Cap-aux-Meules",
+            "gtfs_departure_stop_id": "IEN",
+            "gtfs_arrival_stop_id": "CAM",
+            "travel_minutes": 60
+          },
+          {
+            "departure_shore": "Cap-aux-Meules",
+            "arrival_shore": "Ile d'Entrée",
+            "gtfs_direction_id": "1",
+            "gtfs_trip_headsign": "Ile d'Entrée",
+            "gtfs_departure_stop_id": "CAM",
+            "gtfs_arrival_stop_id": "IEN",
+            "travel_minutes": 60
+          }
+        ]
       }
   ]
 }

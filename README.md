@@ -23,4 +23,5 @@ Cet outil utilise les données de l'[API de la STQ](https://donnees.traversiers.
 
 - La grande majorité du code présent dans ce programme à été écrite par ChatGPT en suivant des instructions qui lui ont été données.
 - Ces données et ce code est fourni sans aucune garantie quoi que ce soit. L'utilisation est à vos propres risques.
+- Seules les traversées exploitées par la STQ sont comprises dans ces données. Les traverses de Saint-Siméon, la desserte maritime de l'Île d'Anticosti et de la Basse-Côte-Nord (Bella Desgagnés/Relais Nordik) ainsi que la liaison Souris, I-P-É / Îles-de-la-Madeleine (CTMA) sont exploitées par des tiers qui ne rendent pas leurs horaires disponibles via l'API de la STQ.
 - Ce programme n'est pas sanctionné, approuvé ou cautionné par la Société des Traversiers du Québec (STQ).
