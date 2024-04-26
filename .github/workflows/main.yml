@@ -1,0 +1,36 @@
+name: Mise à jour GTFS
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+      - run: |-
+          npm prepare
+          node src/index.js
+      - id: vars
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          timestamp=$(date -u)
+          # Set title and body for PR
+          echo ::set-output name=pr_title::"Latest data: ${timestamp}"
+          Mise à jour du GTFS
+          echo "::set-output name=pr_body" >> $GITHUB_OUTPUT
+          git diff --name-status
+          git add -A
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          # git push
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          title: ${{ steps.vars.outputs.pr_title }}
+          body: ${{ steps.vars.outputs.pr_body }}
+          branch: latest-data
+          delete-branch: true
