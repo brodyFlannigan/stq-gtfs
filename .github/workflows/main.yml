@@ -12,6 +12,7 @@ jobs:
         with:
           node-version: '20'
       - run: |-
+          npm install
           npm run prepare
           node src/index.js
       - id: vars
