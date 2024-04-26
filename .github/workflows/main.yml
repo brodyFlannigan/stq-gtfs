@@ -15,26 +15,24 @@ jobs:
         run: |-
           npm install
           npm run prepare
-      - name: Checkout and create latest-data branch
-        run: git checkout -b latest-data
       - name: Generate GTFS
         run: node src/index.js
       - id: vars
+        name: Set variables for pull request
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           timestamp=$(date -u)
           # Set title and body for PR
+          echo "pr_timestamp=${timestamp}" >> $GITHUB_OUTPUT
           echo "pr_title=Latest data: ${timestamp}" >> $GITHUB_OUTPUT
           echo "pr_body=Les données ont été mises à jour!" >> $GITHUB_OUTPUT
-          git diff --name-status
-          git add -A
-          git commit -m "Latest data: ${timestamp}" || exit 0
-          # git push
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v6
         with:
+          commit-message: Latest data ${{steps.vars.outputs.pr_timestamp}}
           title: ${{ steps.vars.outputs.pr_title }}
           body: ${{ steps.vars.outputs.pr_body }}
-          branch: main
+          branch: latest-gtfs
+          base: main
           delete-branch: true
