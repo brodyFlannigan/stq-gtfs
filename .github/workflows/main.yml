@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  scheduled:
+  gtfs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -22,8 +22,7 @@ jobs:
           timestamp=$(date -u)
           # Set title and body for PR
           echo ::set-output name=pr_title::"Latest data: ${timestamp}"
-          Mise à jour du GTFS
-          echo "::set-output name=pr_body" >> $GITHUB_OUTPUT
+          echo "::set-output name=pr_body::"Les données ont été mises à jour!" >> $GITHUB_OUTPUT
           git diff --name-status
           git add -A
           git commit -m "Latest data: ${timestamp}" || exit 0
