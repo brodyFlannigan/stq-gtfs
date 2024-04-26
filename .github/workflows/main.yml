@@ -15,6 +15,8 @@ jobs:
         run: |-
           npm install
           npm run prepare
+      - name: Checkout and create latest-data branch
+        run: git checkout -b latest-data
       - name: Generate GTFS
         run: node src/index.js
       - id: vars
