@@ -2,8 +2,9 @@
 
 Générateur de données GTFS pour les services de traversier de la Société des Traversiers du Québec (STQ)
 
-> [!WARNING] Données fournies telles quelles
-> Ce programme n'est aucunement cautionné, sanctionné ou approuvé par la Société des traversiers du Québec (STQ). Les données sont fournies telles quelles, sans aucune garantie d'exactitude ou de disponibilité. 
+***
+Ce programme n'est aucunement cautionné, sanctionné ou approuvé par la Société des traversiers du Québec (STQ). Les données sont fournies telles quelles, sans aucune garantie d'exactitude ou de disponibilité. 
+***
 
 ## Installation & Utilisation
 
