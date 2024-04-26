@@ -36,5 +36,5 @@ jobs:
         with:
           title: ${{ steps.vars.outputs.pr_title }}
           body: ${{ steps.vars.outputs.pr_body }}
-          branch: latest-data
+          branch: main
           delete-branch: true
