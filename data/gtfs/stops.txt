@@ -2,7 +2,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,stop_timezone,wheelchair_board
 BCO,Gare maritime de Baie-Comeau,49.23286,-68.133286,0,America/Montreal,1
 BSC,Gare fluviale de Baie-Sainte-Catherine,48.12648,-69.7297,0,America/Montreal,1
 CAM,Cap-aux-Meules,47.3808,-61.85442,0,America/Halifax,
-CHE,Chevery,50.47089,-59.607067,0,America/Montreal,
+CHE,Chevery,50.48073,-59.60055,0,America/Montreal,
 GDB,Gare maritime de Godbout,49.322025,-67.59294,0,America/Montreal,1
 HHB,Harrington Harbour,50.496346,-59.475674,0,America/Montreal,
 IAC,Gare maritime de L'Isle-aux-Coudres,47.420685,-70.3919,0,America/Montreal,

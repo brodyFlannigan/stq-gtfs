@@ -48,7 +48,7 @@
         ]
       },{
       "route_id": "l-isle-aux-grues-montmagny",
-      "access_data": { "wheelchair_accessible": "", "bikes_allowed": "1" },
+      "access_data": { "wheelchair_accessible": "0", "bikes_allowed": "1" },
       "service_patterns": [
         {
           "departure_shore": "L'Isle-aux-Grues",
@@ -71,7 +71,7 @@
       ]
     },{
         "route_id": "isle-aux-coudres",
-        "access_data": { "wheelchair_accessible": "", "bikes_allowed": "1" },
+        "access_data": { "wheelchair_accessible": "0", "bikes_allowed": "1" },
         "service_patterns": [
           {
             "departure_shore": "L'Isle-aux-Coudres",
@@ -117,7 +117,7 @@
         ]
       },{
         "route_id": "i-v-n-d-des-sept-douleurs",
-        "access_data": { "wheelchair_accessible": "", "bikes_allowed": "1" },
+        "access_data": { "wheelchair_accessible": "0", "bikes_allowed": "1" },
         "service_patterns": [
           {
             "departure_shore": "départ de l'île",
@@ -180,7 +180,7 @@
         ]
       },{
         "route_id": "h-harbour-chevery",
-        "access_data": { "wheelchair_accessible": "", "bikes_allowed": "" },
+        "access_data": { "wheelchair_accessible": "0", "bikes_allowed": "1" },
         "service_patterns": [
           {
             "departure_shore": "Chevery",
@@ -203,7 +203,7 @@
         ]
       },{
         "route_id": "riv-st-augustin",
-        "access_data": { "wheelchair_accessible": "0", "bikes_allowed": "" },
+        "access_data": { "wheelchair_accessible": "2", "bikes_allowed": "1" },
         "service_patterns": [
           {
             "departure_shore": "Pakuashipi",

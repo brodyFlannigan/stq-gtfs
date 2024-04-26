@@ -31,7 +31,7 @@ async function fetchSchedules() {
           route: route.route_id,
           data: response.data,
         });
-        await new Promise((resolve) => setTimeout(resolve, 1000)); // Rate limit of 1 second
+        await new Promise((resolve) => setTimeout(resolve, 0)); // Change the 0 here to something like 1000 to set a delay (in ms) between requests.
       } catch (error) {
         console.error(
           `Error fetching data for ${route.route_id} on ${formattedDate}: ${error}`

@@ -1,5 +1,4 @@
 {
-    "earliest_day": 0,
-    "latest_day": 5
-  }
-  
+  "earliest_day": -2,
+  "latest_day": 45
+}

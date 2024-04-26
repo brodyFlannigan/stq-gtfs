@@ -88,6 +88,7 @@ function addMinutesToTime(time: string, minutesToAdd: number): string {
       stop_sequence: string;
       pickup_type: string;
       drop_off_type: string;
+      timepoint: string;
     }[] = [];
     const existingTripIds = new Set();
 
@@ -147,6 +148,7 @@ function addMinutesToTime(time: string, minutesToAdd: number): string {
               stop_sequence: "1",
               pickup_type: "0",
               drop_off_type: "1",
+              timepoint: "1"
             });
             stopTimesData.push({
               trip_id: tripId,
@@ -156,6 +158,7 @@ function addMinutesToTime(time: string, minutesToAdd: number): string {
               stop_sequence: "2",
               pickup_type: "1",
               drop_off_type: "0",
+              timepoint: "1"
             });
           });
         });
