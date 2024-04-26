@@ -2412,6 +2412,7 @@ isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -2428,6 +2429,7 @@ isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-01,isle-aux-coudres_2024-05-01_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -2744,6 +2746,7 @@ isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -2760,6 +2763,7 @@ isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-02,isle-aux-coudres_2024-05-02_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -3082,6 +3086,7 @@ isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -3098,6 +3103,7 @@ isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-03,isle-aux-coudres_2024-05-03_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -3406,6 +3412,7 @@ isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -3421,6 +3428,7 @@ isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-04,isle-aux-coudres_2024-05-04_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -3705,6 +3713,7 @@ isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -3720,6 +3729,7 @@ isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-05,isle-aux-coudres_2024-05-05_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -4010,6 +4020,7 @@ isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -4026,6 +4037,7 @@ isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-06,isle-aux-coudres_2024-05-06_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -4344,6 +4356,7 @@ isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -4360,6 +4373,7 @@ isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-07,isle-aux-coudres_2024-05-07_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -4676,6 +4690,7 @@ isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -4692,6 +4707,7 @@ isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-08,isle-aux-coudres_2024-05-08_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -5008,6 +5024,7 @@ isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -5024,6 +5041,7 @@ isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-09,isle-aux-coudres_2024-05-09_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -5344,6 +5362,7 @@ isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -5360,6 +5379,7 @@ isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-10,isle-aux-coudres_2024-05-10_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -5668,6 +5688,7 @@ isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -5683,6 +5704,7 @@ isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-11,isle-aux-coudres_2024-05-11_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -5967,6 +5989,7 @@ isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -5982,6 +6005,7 @@ isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-12,isle-aux-coudres_2024-05-12_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -6272,6 +6296,7 @@ isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -6288,6 +6313,7 @@ isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-13,isle-aux-coudres_2024-05-13_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -6610,6 +6636,7 @@ isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -6626,6 +6653,7 @@ isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-14,isle-aux-coudres_2024-05-14_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -6944,6 +6972,7 @@ isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -6960,6 +6989,7 @@ isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-15,isle-aux-coudres_2024-05-15_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -7276,6 +7306,7 @@ isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -7292,6 +7323,7 @@ isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-16,isle-aux-coudres_2024-05-16_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -7612,6 +7644,7 @@ isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -7628,6 +7661,7 @@ isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-17,isle-aux-coudres_2024-05-17_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -7934,6 +7968,7 @@ isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -7949,6 +7984,7 @@ isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-18,isle-aux-coudres_2024-05-18_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -8231,6 +8267,7 @@ isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -8246,6 +8283,7 @@ isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-19,isle-aux-coudres_2024-05-19_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -8536,6 +8574,7 @@ isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -8552,6 +8591,7 @@ isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-20,isle-aux-coudres_2024-05-20_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -8872,6 +8912,7 @@ isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -8888,6 +8929,7 @@ isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-21,isle-aux-coudres_2024-05-21_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -9208,6 +9250,7 @@ isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -9224,6 +9267,7 @@ isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-22,isle-aux-coudres_2024-05-22_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -9542,6 +9586,7 @@ isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -9558,6 +9603,7 @@ isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-23,isle-aux-coudres_2024-05-23_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -9882,6 +9928,7 @@ isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -9898,6 +9945,7 @@ isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-24,isle-aux-coudres_2024-05-24_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -10202,6 +10250,7 @@ isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -10217,6 +10266,7 @@ isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-25,isle-aux-coudres_2024-05-25_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -10501,6 +10551,7 @@ isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -10516,6 +10567,7 @@ isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-26,isle-aux-coudres_2024-05-26_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -10808,6 +10860,7 @@ isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -10824,6 +10877,7 @@ isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-27,isle-aux-coudres_2024-05-27_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -11144,6 +11198,7 @@ isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -11160,6 +11215,7 @@ isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-28,isle-aux-coudres_2024-05-28_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -11478,6 +11534,7 @@ isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -11494,6 +11551,7 @@ isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-29,isle-aux-coudres_2024-05-29_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -11816,6 +11874,7 @@ isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -11832,6 +11891,7 @@ isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-30,isle-aux-coudres_2024-05-30_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -12158,6 +12218,7 @@ isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -12174,6 +12235,7 @@ isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-05-31,isle-aux-coudres_2024-05-31_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -12484,6 +12546,7 @@ isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -12499,6 +12562,7 @@ isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-01,isle-aux-coudres_2024-06-01_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -12785,6 +12849,7 @@ isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -12800,6 +12865,7 @@ isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-02,isle-aux-coudres_2024-06-02_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -13088,6 +13154,7 @@ isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -13104,6 +13171,7 @@ isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-03,isle-aux-coudres_2024-06-03_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -13420,6 +13488,7 @@ isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -13436,6 +13505,7 @@ isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-04,isle-aux-coudres_2024-06-04_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -13756,6 +13826,7 @@ isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -13772,6 +13843,7 @@ isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-05,isle-aux-coudres_2024-06-05_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -14092,6 +14164,7 @@ isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -14108,6 +14181,7 @@ isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-06,isle-aux-coudres_2024-06-06_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -14430,6 +14504,7 @@ isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -14446,6 +14521,7 @@ isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-07,isle-aux-coudres_2024-06-07_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -14750,6 +14826,7 @@ isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -14765,6 +14842,7 @@ isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-08,isle-aux-coudres_2024-06-08_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -15051,6 +15129,7 @@ isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -15066,6 +15145,7 @@ isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-09,isle-aux-coudres_2024-06-09_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
@@ -15358,6 +15438,7 @@ isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_IAC_SJR_080000,Saint-Jos
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_IAC_SJR_090000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_IAC_SJR_100000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_IAC_SJR_110000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_IAC_SJR_120000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_IAC_SJR_130000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_IAC_SJR_140000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_IAC_SJR_150000,Saint-Joseph-de-la-Rive,0,0,1
@@ -15374,6 +15455,7 @@ isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_SJR_IAC_083000,L'Isle-au
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_SJR_IAC_093000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_SJR_IAC_103000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_SJR_IAC_113000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_SJR_IAC_123000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_SJR_IAC_133000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_SJR_IAC_143000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,2024-06-10,isle-aux-coudres_2024-06-10_SJR_IAC_153000,L'Isle-aux-Coudres,1,0,1
