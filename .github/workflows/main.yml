@@ -11,18 +11,20 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '20'
-      - run: |-
+      - name: Prepare node
+        run: |-
           npm install
           npm run prepare
-          node src/index.js
+      - name: Generate GTFS
+        run: node src/index.js
       - id: vars
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           timestamp=$(date -u)
           # Set title and body for PR
-          echo ::set-output name=pr_title::"Latest data: ${timestamp}"
-          echo "::set-output name=pr_body::"Les données ont été mises à jour!" >> $GITHUB_OUTPUT
+          echo "pr_title=Latest data: ${timestamp}" >> $GITHUB_OUTPUT
+          echo "pr_body=Les données ont été mises à jour!" >> $GITHUB_OUTPUT
           git diff --name-status
           git add -A
           git commit -m "Latest data: ${timestamp}" || exit 0
@@ -30,7 +32,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          title: ${{ steps.vars.outputs.pr_title }}
-          body: ${{ steps.vars.outputs.pr_body }}
+          title: $pr_title
+          body: $pr_body
           branch: latest-data
           delete-branch: true
