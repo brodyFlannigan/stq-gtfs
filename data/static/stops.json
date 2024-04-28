@@ -23,7 +23,7 @@
       "stop_lat": "50.48073",
       "stop_lon": "-59.60055",
       "location_type": "0",
-      "stop_timezone": "America/Montreal"
+      "stop_timezone": "America/Blanc-Sablon"
     },
     {
       "stop_id": "BSC",
@@ -128,7 +128,7 @@
       "stop_lat": "50.496346",
       "stop_lon": "-59.475674",
       "location_type": "0",
-      "stop_timezone": "America/Montreal"
+      "stop_timezone": "America/Blanc-Sablon"
     },
     {
       "stop_id": "ISV",
@@ -170,7 +170,7 @@
       "stop_lat": "51.21966",
       "stop_lon": "-58.66305",
       "location_type": "0",
-      "stop_timezone": "America/Montreal"
+      "stop_timezone": "America/Blanc-Sablon"
     },
     {
       "stop_id": "SAG",
@@ -178,7 +178,7 @@
       "stop_lat": "51.226437",
       "stop_lon": "-58.654743",
       "location_type": "0",
-      "stop_timezone": "America/Montreal"
+      "stop_timezone": "America/Blanc-Sablon"
     },
     {
       "stop_id": "IEN",
