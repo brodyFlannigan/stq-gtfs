@@ -6,6 +6,7 @@ on:
     branches: [main, latest-gtfs]
 env:
   MD_VALIDATOR_VERSION: 5.0.1
+  GTFS_PATH: stq-qc-ca.gtfs.zip
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -20,8 +21,9 @@ jobs:
             curl -sSL https://github.com/MobilityData/gtfs-validator/releases/download/v$MD_VALIDATOR_VERSION/gtfs-validator-$MD_VALIDATOR_VERSION-cli.jar -o gtfs-validator.jar
       - name: Run validator
         run: |
-            java -jar gtfs-validator.jar -i stq-qc-ca.gtfs.zip -o validation-results
+            java -jar gtfs-validator.jar -i $GTFS_PATH -o validation-results
             echo $?
             ls -l validation-results
+            cat validation-results/results.json
 
         
