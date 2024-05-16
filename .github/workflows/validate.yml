@@ -12,6 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
       - uses: actions/setup-java@v4
         with:
           distribution: 'temurin' # See 'Supported distributions' for available options
@@ -22,8 +25,8 @@ jobs:
       - name: Run validator
         run: |
             java -jar gtfs-validator.jar -i $GTFS_PATH -o validation-results
-            echo $?
-            ls -l validation-results
-            cat validation-results/report.json
+      - name: Check validation results
+        run: |
+          node tests/check-validation-results.js validation-results/report.json
 
         
