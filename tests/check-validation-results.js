@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const reportPath = process.argv[1];
+const reportPath = process.argv[2];
 const report = JSON.parse(fs.readFileSync(reportPath));
 
 for (const notice of report.notices) {
