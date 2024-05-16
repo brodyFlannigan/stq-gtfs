@@ -24,6 +24,6 @@ jobs:
             java -jar gtfs-validator.jar -i $GTFS_PATH -o validation-results
             echo $?
             ls -l validation-results
-            cat validation-results/results.json
+            cat validation-results/report.json
 
         
