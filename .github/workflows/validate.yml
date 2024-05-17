@@ -1,9 +1,7 @@
 name: Validate GTFS
 on:
   push: 
-    branches: [main, latest-gtfs]
   pull_request:
-    branches: [main, latest-gtfs]
 env:
   MD_VALIDATOR_VERSION: 5.0.1
   GTFS_PATH: stq-qc-ca.gtfs.zip
