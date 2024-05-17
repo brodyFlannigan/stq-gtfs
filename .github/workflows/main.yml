@@ -40,6 +40,7 @@ jobs:
           branch: latest-gtfs
           delete-branch: true
   validate:
+    needs: gtfs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
