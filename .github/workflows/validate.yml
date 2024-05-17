@@ -1,7 +1,9 @@
 name: Validate GTFS
 on:
-  push: 
+  push:
+    branches: [main]
   pull_request:
+    branches: [main]
 env:
   MD_VALIDATOR_VERSION: 5.0.1
   GTFS_PATH: stq-qc-ca.gtfs.zip
@@ -15,16 +17,14 @@ jobs:
           node-version: 20
       - uses: actions/setup-java@v4
         with:
-          distribution: 'temurin' # See 'Supported distributions' for available options
-          java-version: '17'
+          distribution: "temurin" # See 'Supported distributions' for available options
+          java-version: "17"
       - name: Get validator
         run: |
-            curl -sSL https://github.com/MobilityData/gtfs-validator/releases/download/v$MD_VALIDATOR_VERSION/gtfs-validator-$MD_VALIDATOR_VERSION-cli.jar -o gtfs-validator.jar
+          curl -sSL https://github.com/MobilityData/gtfs-validator/releases/download/v$MD_VALIDATOR_VERSION/gtfs-validator-$MD_VALIDATOR_VERSION-cli.jar -o gtfs-validator.jar
       - name: Run validator
         run: |
-            java -jar gtfs-validator.jar -i $GTFS_PATH -o validation-results
+          java -jar gtfs-validator.jar -i $GTFS_PATH -o validation-results
       - name: Check validation results
         run: |
           node tests/check-validation-results.js validation-results/report.json
-
-        
