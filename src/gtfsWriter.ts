@@ -1,23 +1,29 @@
-import fs from 'fs';
-import path from 'path';
+import fs from "fs";
+import path from "path";
 
-type DataObject = Record<string, string | undefined>;
-
-function escapeCsvValue(value: string | undefined): string {
-    if (!value) return '';
-    return value.includes(',') ? `"${value}"` : value;
+interface DataObject {
+  [key: string]: any;
 }
 
-function writeGtfsFile(filePath: string, fields: string[], dataObjects: DataObject[]): void {
-    const fullPath = path.resolve(filePath);
-    const content = dataObjects.map(obj => {
-        return fields.map(field => escapeCsvValue(obj[field])).join(',');
-    });
+function escapeCsvValue(value: string | undefined): string {
+  if (!value) return "";
+  return value.includes(",") ? `"${value}"` : value;
+}
 
-    const header = fields.join(',');
-    const output = [header, ...content].join('\n');
+function writeGtfsFile(
+  filePath: string,
+  fields: string[],
+  dataObjects: DataObject[]
+): void {
+  const fullPath = path.resolve(filePath);
+  const content = dataObjects.map((obj) => {
+    return fields.map((field) => escapeCsvValue(obj[field])).join(",");
+  });
 
-    fs.writeFileSync(fullPath, output);
+  const header = fields.join(",");
+  const output = [header, ...content].join("\n");
+
+  fs.writeFileSync(fullPath, output);
 }
 
 export default writeGtfsFile;

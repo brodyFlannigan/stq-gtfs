@@ -1,6 +1,5 @@
 import { readJsonAndWriteGtfs } from "./readJsonWriteGtfs";
 import fetchSchedules from "./fetchSchedules";
-import makeCalendarDates from "./makeCalendarDates";
 import writeGtfsFile from "./gtfsWriter";
 import { loadServicePatterns } from "./loadServicePatterns";
 import { createTripsAndStopTimes } from "./makeTripsStopTimes";
@@ -31,7 +30,6 @@ readJsonAndWriteGtfs(
 
 async function runScheduleProcessor() {
   const schedules = await fetchSchedules();
-  const calendarDates = makeCalendarDates(schedules);
   const servicePatterns = loadServicePatterns();
   const TripsAndStopTimes = createTripsAndStopTimes(schedules, servicePatterns);
   const feedInfo = createFeedInfo();
@@ -39,7 +37,7 @@ async function runScheduleProcessor() {
   writeGtfsFile(
     "data/gtfs/calendar_dates.txt",
     ["service_id", "date", "exception_type"],
-    calendarDates
+    TripsAndStopTimes.calendarDates
   );
   writeGtfsFile(
     "data/gtfs/trips.txt",
@@ -82,10 +80,7 @@ async function runScheduleProcessor() {
     ],
     await feedInfo
   );
-  zipGtfsFiles("data/gtfs/", "stq-qc-ca.gtfs.zip")
-
-
+  zipGtfsFiles("data/gtfs/", "stq-qc-ca.gtfs.zip");
 }
 
 runScheduleProcessor();
-
