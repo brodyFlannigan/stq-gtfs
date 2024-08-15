@@ -5,6 +5,7 @@ import { loadServicePatterns } from "./loadServicePatterns";
 import { createTripsAndStopTimes } from "./makeTripsStopTimes";
 import { createFeedInfo } from "./makeFeedInfo";
 import { zipGtfsFiles } from "./compileZipFiles";
+import { optimizeCalendar } from "./optimizeCalendar";
 
 // First, create the files that don't require the API: agency, routes, attributions, stops
 readJsonAndWriteGtfs(
@@ -34,10 +35,29 @@ async function runScheduleProcessor() {
   const TripsAndStopTimes = createTripsAndStopTimes(schedules, servicePatterns);
   const feedInfo = createFeedInfo();
 
+  const optimized = optimizeCalendar(TripsAndStopTimes.calendarDates);
+
+  // Write the optimized calendar and calendar dates to files
+  writeGtfsFile(
+    "data/gtfs/calendar.txt",
+    [
+      "service_id",
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday",
+      "saturday",
+      "sunday",
+      "start_date",
+      "end_date",
+    ],
+    optimized.calendar
+  );
   writeGtfsFile(
     "data/gtfs/calendar_dates.txt",
     ["service_id", "date", "exception_type"],
-    TripsAndStopTimes.calendarDates
+    optimized.calendarDates
   );
   writeGtfsFile(
     "data/gtfs/trips.txt",
