@@ -5,9 +5,10 @@ interface DataObject {
   [key: string]: any;
 }
 
-function escapeCsvValue(value: string | undefined): string {
-  if (!value) return "";
-  return value.includes(",") ? `"${value}"` : value;
+function escapeCsvValue(value: any): string {
+  if (value == null) return ""; // handle null and undefined
+  const stringValue = String(value); // convert non-strings to strings
+  return stringValue.includes(",") ? `"${stringValue}"` : stringValue;
 }
 
 function writeGtfsFile(

@@ -53,7 +53,7 @@ interface StopTimeData {
   timepoint: string;
 }
 
-interface CalendarDate {
+export interface CalendarDate {
   [key: string]: string | number;
   service_id: string;
   date: string;
@@ -208,7 +208,7 @@ export function createTripsAndStopTimes(
             }
             const tripDates = tripDateMap.get(tripId);
             if (tripDates) {
-              tripDates.add(depart.date);
+              tripDates.add(jour.date);
             }
           });
         }

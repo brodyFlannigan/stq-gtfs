@@ -1,11 +1,11 @@
 route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color,route_sort_order
-h-harbour-chevery,STQ,HHC,Harrington Harbour – Chevery,4,https://www.traversiers.com/fr/nos-traverses/traverse-harrington-harbour-chevery/horaire,20A9EC,FFFFFF,8
-i-v-n-d-des-sept-douleurs,STQ,IV,l'Île-Verte,4,https://www.traversiers.com/fr/nos-traverses/traverse-de-lile-verte/horaire,20A9EC,FFFFFF,6
-ile-d-entree-cap-aux-meules,STQ,IE,Île d'Entrée – Cap-aux-Meules,4,https://www.traversiers.com/fr/nos-traverses/traverse-ile-dentree-cap-aux-meules/horaire,20A9EC,FFFFFF,10
-isle-aux-coudres,STQ,IAC,L'Isle-aux-Coudres – Saint-Joseph-de-la-Rive,4,https://www.traversiers.com/fr/nos-traverses/traverse-lisle-aux-coudres-saint-joseph-de-la-rive/horaire,20A9EC,FFFFFF,4
-l-isle-aux-grues-montmagny,STQ,IAG,L'Isle-aux-Grues – Montmagny,4,https://www.traversiers.com/fr/nos-traverses/traverse-lisle-aux-grues-montmagny/horaire,20A9EC,FFFFFF,3
-matane,STQ,MBCG,Matane – Baie-Comeau – Godbout,4,https://www.traversiers.com/fr/nos-traverses/traverse-matane-baie-comeau-godbout/horaire,20A9EC,FFFFFF,7
-quebec,STQ,QL,Québec – Lévis,4,https://www.traversiers.com/fr/nos-traverses/traverse-quebec-levis/horaire,20A9EC,FFFFFF,2
-riv-st-augustin,STQ,RSA,Rivière Saint-Augustin,4,https://www.traversiers.com/fr/nos-traverses/traverse-de-la-riviere-saint-augustin-basse-cote-nord/horaire,20A9EC,FFFFFF,9
-sorel,STQ,STSIL,Sorel-Tracy – Saint-Ignace-de-Loyola,4,https://www.traversiers.com/fr/nos-traverses/traverse-sorel-tracy-saint-ignace-de-loyola/horaire,20A9EC,FFFFFF,1
-tadoussac,STQ,TBSC,Tadoussac – Baie-Sainte-Catherine,4,https://www.traversiers.com/fr/nos-traverses/traverse-tadoussac-baie-sainte-catherine/horaire,20A9EC,FFFFFF,5
+h-harbour-chevery,STQ,HHC,Harrington Harbour – Chevery,4,https://www.traversiers.com/fr/nos-traverses/traverse-harrington-harbour-chevery/horaire,009CDD,FFFFFF,8
+i-v-n-d-des-sept-douleurs,STQ,IV,l'Île-Verte,4,https://www.traversiers.com/fr/nos-traverses/traverse-de-lile-verte/horaire,009CDD,FFFFFF,6
+ile-d-entree-cap-aux-meules,STQ,IE,Île d'Entrée – Cap-aux-Meules,4,https://www.traversiers.com/fr/nos-traverses/traverse-ile-dentree-cap-aux-meules/horaire,009CDD,FFFFFF,10
+isle-aux-coudres,STQ,IAC,L'Isle-aux-Coudres – Saint-Joseph-de-la-Rive,4,https://www.traversiers.com/fr/nos-traverses/traverse-lisle-aux-coudres-saint-joseph-de-la-rive/horaire,009CDD,FFFFFF,4
+l-isle-aux-grues-montmagny,STQ,IAG,L'Isle-aux-Grues – Montmagny,4,https://www.traversiers.com/fr/nos-traverses/traverse-lisle-aux-grues-montmagny/horaire,009CDD,FFFFFF,3
+matane,STQ,MBCG,Matane – Baie-Comeau – Godbout,4,https://www.traversiers.com/fr/nos-traverses/traverse-matane-baie-comeau-godbout/horaire,009CDD,FFFFFF,7
+quebec,STQ,QL,Québec – Lévis,4,https://www.traversiers.com/fr/nos-traverses/traverse-quebec-levis/horaire,009CDD,FFFFFF,2
+riv-st-augustin,STQ,RSA,Rivière Saint-Augustin,4,https://www.traversiers.com/fr/nos-traverses/traverse-de-la-riviere-saint-augustin-basse-cote-nord/horaire,009CDD,FFFFFF,9
+sorel,STQ,STSIL,Sorel-Tracy – Saint-Ignace-de-Loyola,4,https://www.traversiers.com/fr/nos-traverses/traverse-sorel-tracy-saint-ignace-de-loyola/horaire,009CDD,FFFFFF,1
+tadoussac,STQ,TBSC,Tadoussac – Baie-Sainte-Catherine,4,https://www.traversiers.com/fr/nos-traverses/traverse-tadoussac-baie-sainte-catherine/horaire,009CDD,FFFFFF,5
