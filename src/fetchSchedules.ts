@@ -14,6 +14,7 @@ async function fetchSchedules() {
   const today = new Date();
   const startDate = addDays(today, config.earliest_day);
   const endDate = addDays(today, config.latest_day);
+  const delayBetweenRequests = config.delay_between_requests;
   let currentDate = startDate;
 
   const scheduleData = [];
@@ -25,13 +26,15 @@ async function fetchSchedules() {
       const url = `https://donnees.traversiers.com/horaires/${route.route_id}/${formattedDate}`;
       try {
         const response = await axios.get(url);
-        console.log(`Fetching data for ${formattedDate} on ${route.route_id}`)
+        console.log(`Fetching data for ${formattedDate} on ${route.route_id}`);
         scheduleData.push({
           date: formattedDate,
           route: route.route_id,
           data: response.data,
         });
-        await new Promise((resolve) => setTimeout(resolve, 0)); // Change the 0 here to something like 1000 to set a delay (in ms) between requests.
+        await new Promise((resolve) =>
+          setTimeout(resolve, delayBetweenRequests)
+        ); // Change the 0 here to something like 1000 to set a delay (in ms) between requests.
       } catch (error) {
         console.error(
           `Error fetching data for ${route.route_id} on ${formattedDate}: ${error}`
@@ -42,7 +45,7 @@ async function fetchSchedules() {
     currentDate = addDays(currentDate, 1);
   }
 
-  return  scheduleData ;
+  return scheduleData;
 }
 
 export default fetchSchedules;
