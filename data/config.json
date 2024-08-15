@@ -1,4 +1,5 @@
 {
   "earliest_day": -2,
-  "latest_day": 45
+  "latest_day": 45,
+  "delay_between_requests": 0
 }
