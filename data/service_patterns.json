@@ -188,8 +188,8 @@
           "arrival_shore": "Matane",
           "gtfs_direction_id": "1",
           "gtfs_trip_headsign": "Matane",
-          "gtfs_departure_stop_id": "MTN",
-          "gtfs_arrival_stop_id": "GDB",
+          "gtfs_departure_stop_id": "GDB",
+          "gtfs_arrival_stop_id": "MTN",
           "travel_minutes": 130,
           "wheelchair_accessible": "1",
           "bikes_allowed": "1"
