@@ -161,23 +161,26 @@ export function createTripsAndStopTimes(
       trajet.jour.forEach(
         (jour: { depart: { heure: string; date: string }[]; date: string }) => {
           if (!jour.depart || jour.depart.length === 0) {
-            console.log(`No departures found for route_id: ${route} on date ${jour.date}`);
+            // console.log(`No departures found for route_id: ${route} on date ${jour.date}`);
             return; // Skip processing this jour if 'depart' is empty
           }
 
           jour.depart.forEach((depart: { heure: string; date: string }) => {
-            const serviceId = jour.date;
+            const yearMonth = format(parseISO(jour.date), "yyyyMM");
+            const serviceId = `${yearMonth}_${jour.date}`;
             const departureTime = getAdjustedTime(
               depart.heure,
               depart.date,
               jour.date,
               pattern.gtfs_departure_stop_id
             );
-            const tripId = `${route}_${pattern.gtfs_departure_stop_id}_${
+            const tripId = `${yearMonth}_${route}_${pattern.gtfs_departure_stop_id}_${
               pattern.gtfs_arrival_stop_id
             }_${departureTime.replace(/:/g, "")}`;
 
             const arrivalTimeAtFirstStop = departureTime;
+            // the_tripId, serviceId, and all relevant references should include the month and year prefix as demonstrated to ensure unique identification per month. This change allows each month to handle its trips independently, facilitating easier management and debugging.
+
             const travelMinutes = pattern.travel_minutes;
             const arrivalTimeAtSecondStop = addMinutesToTime(
               arrivalTimeAtFirstStop,
@@ -225,9 +228,11 @@ export function createTripsAndStopTimes(
       );
     });
   });
-// Assigning service IDs based on unique sets of dates
+
+  // Assigning service IDs based on unique sets of dates
   tripDateMap.forEach((dates, tripId) => {
     const sortedDates = Array.from(dates).sort().join(",");
+    console.log(sortedDates.toString())
     if (!dateServiceMap.has(sortedDates)) {
       dateServiceMap.set(sortedDates, `service_${serviceIdCounter++}`);
     }
@@ -251,4 +256,3 @@ export function createTripsAndStopTimes(
   });
   return { tripsData, stopTimesData, calendarDates };
 }
-
