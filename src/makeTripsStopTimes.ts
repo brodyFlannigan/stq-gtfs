@@ -130,7 +130,6 @@ export function createTripsAndStopTimes(
   const dateServiceMap = new Map<string, string>();
   const tripDateMap = new Map<string, Set<string>>();
   const calendarDateSet = new Set<string>();
-  let serviceIdCounter = 1;
 
   scheduleData.forEach(({ route, data }) => {
     const patterns = servicePatterns.find(
@@ -171,7 +170,6 @@ export function createTripsAndStopTimes(
 
           jour.depart.forEach((depart: { heure: string; date: string }) => {
             const yearMonth = format(parseISO(jour.date), "yyyyMM");
-            const serviceId = `${yearMonth}_${jour.date}`;
             const departureTime = getAdjustedTime(
               depart.heure,
               depart.date,
@@ -238,7 +236,6 @@ export function createTripsAndStopTimes(
   // Assigning service IDs based on unique sets of dates
   tripDateMap.forEach((dates, tripId) => {
     const sortedDates = Array.from(dates).sort().join(",");
-    console.log(sortedDates.toString());
     const serviceDateHash = crc32(sortedDates).toString(16);
     if (!dateServiceMap.has(sortedDates)) {
       dateServiceMap.set(sortedDates, `service_${serviceDateHash}`);
