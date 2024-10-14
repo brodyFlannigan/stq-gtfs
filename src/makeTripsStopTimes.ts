@@ -8,7 +8,7 @@ import {
   format,
 } from "date-fns";
 import { fromZonedTime, toZonedTime } from "date-fns-tz";
-
+import crc32 from "crc/crc32";
 interface ServicePattern {
   route_id: string;
   access_data: { wheelchair_accessible: string; bikes_allowed: string };
@@ -149,12 +149,16 @@ export function createTripsAndStopTimes(
       );
 
       if (!pattern) {
-        console.error(`No matching service pattern found for route_id: ${route} on ${trajet.rive_depart} to ${trajet.rive_arrivee}`);
+        console.error(
+          `No matching service pattern found for route_id: ${route} on ${trajet.rive_depart} to ${trajet.rive_arrivee}`
+        );
         return; // Skip processing this trajet if no matching pattern is found
       }
 
       if (!trajet.jour || trajet.jour.length === 0) {
-        console.log(`Skipping day with no service for route_id: ${route} from ${trajet.rive_depart} to ${trajet.rive_arrivee}`);
+        console.log(
+          `Skipping day with no service for route_id: ${route} from ${trajet.rive_depart} to ${trajet.rive_arrivee}`
+        );
         return; // Skip processing this trajet if 'jour' is empty
       }
 
@@ -174,12 +178,14 @@ export function createTripsAndStopTimes(
               jour.date,
               pattern.gtfs_departure_stop_id
             );
-            const tripId = `${yearMonth}_${route}_${pattern.gtfs_departure_stop_id}_${
-              pattern.gtfs_arrival_stop_id
-            }_${departureTime.replace(/:/g, "")}`;
+            const tripId = `${yearMonth}_${route}_${
+              pattern.gtfs_departure_stop_id
+            }_${pattern.gtfs_arrival_stop_id}_${departureTime.replace(
+              /:/g,
+              ""
+            )}`;
 
             const arrivalTimeAtFirstStop = departureTime;
-            // the_tripId, serviceId, and all relevant references should include the month and year prefix as demonstrated to ensure unique identification per month. This change allows each month to handle its trips independently, facilitating easier management and debugging.
 
             const travelMinutes = pattern.travel_minutes;
             const arrivalTimeAtSecondStop = addMinutesToTime(
@@ -232,9 +238,10 @@ export function createTripsAndStopTimes(
   // Assigning service IDs based on unique sets of dates
   tripDateMap.forEach((dates, tripId) => {
     const sortedDates = Array.from(dates).sort().join(",");
-    console.log(sortedDates.toString())
+    console.log(sortedDates.toString());
+    const serviceDateHash = crc32(sortedDates).toString(16);
     if (!dateServiceMap.has(sortedDates)) {
-      dateServiceMap.set(sortedDates, `service_${serviceIdCounter++}`);
+      dateServiceMap.set(sortedDates, `service_${serviceDateHash}`);
     }
     const serviceId = dateServiceMap.get(sortedDates) ?? "";
     const foundTrip = tripsData.find((trip) => trip.trip_id === tripId);
