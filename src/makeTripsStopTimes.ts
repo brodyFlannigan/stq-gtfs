@@ -8,7 +8,7 @@ import {
   format,
 } from "date-fns";
 import { fromZonedTime, toZonedTime } from "date-fns-tz";
-
+import crc32 from "crc/crc32";
 interface ServicePattern {
   route_id: string;
   access_data: { wheelchair_accessible: string; bikes_allowed: string };
@@ -127,20 +127,20 @@ export function createTripsAndStopTimes(
   const tripsData: TripData[] = [];
   const stopTimesData: StopTimeData[] = [];
   const calendarDates: CalendarDate[] = [];
-  const dateServiceMap = new Map<string, string>(); // Maps sorted date strings to service IDs
-  const tripDateMap = new Map<string, Set<string>>(); // Maps tripId to set of dates
-  const calendarDateSet = new Set<string>(); // Prevents duplicate calendar date entries
-  let serviceIdCounter = 1;
+  const dateServiceMap = new Map<string, string>();
+  const tripDateMap = new Map<string, Set<string>>();
+  const calendarDateSet = new Set<string>();
 
   scheduleData.forEach(({ route, data }) => {
     const patterns = servicePatterns.find(
       (pattern) => pattern.route_id === route
     );
     if (!patterns) {
-      throw new Error(`No service patterns found for route_id: ${route}`);
+      console.error(`No service patterns found for route_id: ${route}`);
+      return; // Skip processing this route if no patterns are found
     }
 
-    data.trajet.forEach((trajet: any, jour: any) => {
+    data.trajet.forEach((trajet: any) => {
       const pattern = patterns.service_patterns.find(
         (p) =>
           p.departure_shore === trajet.rive_depart &&
@@ -148,26 +148,43 @@ export function createTripsAndStopTimes(
       );
 
       if (!pattern) {
-        throw new Error(
-          `No matching service pattern for ${trajet.rive_depart} to ${trajet.rive_arrivee}`
+        console.error(
+          `No matching service pattern found for route_id: ${route} on ${trajet.rive_depart} to ${trajet.rive_arrivee}`
         );
+        return; // Skip processing this trajet if no matching pattern is found
+      }
+
+      if (!trajet.jour || trajet.jour.length === 0) {
+        console.log(
+          `Skipping day with no service for route_id: ${route} from ${trajet.rive_depart} to ${trajet.rive_arrivee}`
+        );
+        return; // Skip processing this trajet if 'jour' is empty
       }
 
       trajet.jour.forEach(
         (jour: { depart: { heure: string; date: string }[]; date: string }) => {
+          if (!jour.depart || jour.depart.length === 0) {
+            // console.log(`No departures found for route_id: ${route} on date ${jour.date}`);
+            return; // Skip processing this jour if 'depart' is empty
+          }
+
           jour.depart.forEach((depart: { heure: string; date: string }) => {
-            const serviceId = jour.date;
+            const yearMonth = format(parseISO(jour.date), "yyyyMM");
             const departureTime = getAdjustedTime(
               depart.heure,
               depart.date,
               jour.date,
               pattern.gtfs_departure_stop_id
             );
-            const tripId = `${route}_${pattern.gtfs_departure_stop_id}_${
-              pattern.gtfs_arrival_stop_id
-            }_${departureTime.replace(/:/g, "")}`;
+            const tripId = `${yearMonth}_${route}_${
+              pattern.gtfs_departure_stop_id
+            }_${pattern.gtfs_arrival_stop_id}_${departureTime.replace(
+              /:/g,
+              ""
+            )}`;
 
             const arrivalTimeAtFirstStop = departureTime;
+
             const travelMinutes = pattern.travel_minutes;
             const arrivalTimeAtSecondStop = addMinutesToTime(
               arrivalTimeAtFirstStop,
@@ -219,8 +236,9 @@ export function createTripsAndStopTimes(
   // Assigning service IDs based on unique sets of dates
   tripDateMap.forEach((dates, tripId) => {
     const sortedDates = Array.from(dates).sort().join(",");
+    const serviceDateHash = crc32(sortedDates).toString(16);
     if (!dateServiceMap.has(sortedDates)) {
-      dateServiceMap.set(sortedDates, `service_${serviceIdCounter++}`);
+      dateServiceMap.set(sortedDates, `service_${serviceDateHash}`);
     }
     const serviceId = dateServiceMap.get(sortedDates) ?? "";
     const foundTrip = tripsData.find((trip) => trip.trip_id === tripId);
@@ -240,6 +258,5 @@ export function createTripsAndStopTimes(
       }
     });
   });
-
   return { tripsData, stopTimesData, calendarDates };
 }

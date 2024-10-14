@@ -1,7 +1,7 @@
 import axios from "axios";
 import fs from "fs";
 import path from "path";
-import { addDays, format } from "date-fns";
+import { addDays, format, startOfMonth, endOfMonth } from "date-fns";
 
 async function fetchSchedules() {
   const config = JSON.parse(
@@ -12,8 +12,15 @@ async function fetchSchedules() {
   ).data;
 
   const today = new Date();
-  const startDate = addDays(today, config.earliest_day);
-  const endDate = addDays(today, config.latest_day);
+  let startDate = addDays(today, config.earliest_day);
+  let endDate = addDays(today, config.latest_day);
+
+  // Adjusting dates to cover full months if required
+  if (config.get_full_months !== false) { // Default behavior is to get full months unless explicitly set to false
+    startDate = startOfMonth(startDate);
+    endDate = endOfMonth(endDate);
+  }
+
   const delayBetweenRequests = config.delay_between_requests;
   let currentDate = startDate;
 
@@ -34,7 +41,7 @@ async function fetchSchedules() {
         });
         await new Promise((resolve) =>
           setTimeout(resolve, delayBetweenRequests)
-        ); // Change the 0 here to something like 1000 to set a delay (in ms) between requests.
+        );
       } catch (error) {
         console.error(
           `Error fetching data for ${route.route_id} on ${formattedDate}: ${error}`

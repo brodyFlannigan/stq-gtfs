@@ -1,7 +1,13 @@
 import axios from "axios";
 import fs from "fs";
 import path from "path";
-import { addDays, format, formatRFC3339 } from "date-fns";
+import {
+  addDays,
+  format,
+  formatRFC3339,
+  startOfMonth,
+  endOfMonth,
+} from "date-fns";
 
 const feedInfo: {
   feed_publisher_name: string;
@@ -20,8 +26,15 @@ export async function createFeedInfo() {
   );
 
   const today = new Date();
-  const startDate = addDays(today, config.earliest_day);
-  const endDate = addDays(today, config.latest_day);
+  let startDate = addDays(today, config.earliest_day);
+  let endDate = addDays(today, config.latest_day);
+
+  // Adjusting dates to cover full months if required
+  if (config.get_full_months !== false) {
+    // Default behavior is to get full months unless explicitly set to false
+    startDate = startOfMonth(startDate);
+    endDate = endOfMonth(endDate);
+  }
 
   const scheduleData = [];
 
@@ -36,7 +49,7 @@ export async function createFeedInfo() {
     feed_start_date: formattedStartDate,
     feed_end_date: formattedEndDate,
     feed_version: formatRFC3339(Date.now()),
-    feed_contact_url: "https://github.com/brodyFlannigan/stq-gtfs-v2/issues",
+    feed_contact_url: "https://github.com/brodyFlannigan/stq-gtfs/issues",
   });
   return feedInfo;
 }
