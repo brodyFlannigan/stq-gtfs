@@ -1,5 +1,6 @@
 {
   "earliest_day": -2,
   "latest_day": 45,
+  "get_full_months": true,
   "delay_between_requests": 0
 }

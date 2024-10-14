@@ -127,9 +127,9 @@ export function createTripsAndStopTimes(
   const tripsData: TripData[] = [];
   const stopTimesData: StopTimeData[] = [];
   const calendarDates: CalendarDate[] = [];
-  const dateServiceMap = new Map<string, string>(); // Maps sorted date strings to service IDs
-  const tripDateMap = new Map<string, Set<string>>(); // Maps tripId to set of dates
-  const calendarDateSet = new Set<string>(); // Prevents duplicate calendar date entries
+  const dateServiceMap = new Map<string, string>();
+  const tripDateMap = new Map<string, Set<string>>();
+  const calendarDateSet = new Set<string>();
   let serviceIdCounter = 1;
 
   scheduleData.forEach(({ route, data }) => {
@@ -137,10 +137,11 @@ export function createTripsAndStopTimes(
       (pattern) => pattern.route_id === route
     );
     if (!patterns) {
-      throw new Error(`No service patterns found for route_id: ${route}`);
+      console.error(`No service patterns found for route_id: ${route}`);
+      return; // Skip processing this route if no patterns are found
     }
 
-    data.trajet.forEach((trajet: any, jour: any) => {
+    data.trajet.forEach((trajet: any) => {
       const pattern = patterns.service_patterns.find(
         (p) =>
           p.departure_shore === trajet.rive_depart &&
@@ -148,13 +149,22 @@ export function createTripsAndStopTimes(
       );
 
       if (!pattern) {
-        throw new Error(
-          `No matching service pattern for ${trajet.rive_depart} to ${trajet.rive_arrivee}`
-        );
+        console.error(`No matching service pattern found for route_id: ${route} on ${trajet.rive_depart} to ${trajet.rive_arrivee}`);
+        return; // Skip processing this trajet if no matching pattern is found
+      }
+
+      if (!trajet.jour || trajet.jour.length === 0) {
+        console.log(`Skipping day with no service for route_id: ${route} from ${trajet.rive_depart} to ${trajet.rive_arrivee}`);
+        return; // Skip processing this trajet if 'jour' is empty
       }
 
       trajet.jour.forEach(
         (jour: { depart: { heure: string; date: string }[]; date: string }) => {
+          if (!jour.depart || jour.depart.length === 0) {
+            console.log(`No departures found for route_id: ${route} on date ${jour.date}`);
+            return; // Skip processing this jour if 'depart' is empty
+          }
+
           jour.depart.forEach((depart: { heure: string; date: string }) => {
             const serviceId = jour.date;
             const departureTime = getAdjustedTime(
@@ -215,8 +225,7 @@ export function createTripsAndStopTimes(
       );
     });
   });
-
-  // Assigning service IDs based on unique sets of dates
+// Assigning service IDs based on unique sets of dates
   tripDateMap.forEach((dates, tripId) => {
     const sortedDates = Array.from(dates).sort().join(",");
     if (!dateServiceMap.has(sortedDates)) {
@@ -240,6 +249,6 @@ export function createTripsAndStopTimes(
       }
     });
   });
-
   return { tripsData, stopTimesData, calendarDates };
 }
+
