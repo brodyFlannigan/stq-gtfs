@@ -49,7 +49,7 @@ export async function createFeedInfo() {
     feed_start_date: formattedStartDate,
     feed_end_date: formattedEndDate,
     feed_version: formatRFC3339(Date.now()),
-    feed_contact_url: "https://github.com/brodyFlannigan/stq-gtfs-v2/issues",
+    feed_contact_url: "https://github.com/brodyFlannigan/stq-gtfs/issues",
   });
   return feedInfo;
 }
