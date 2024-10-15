@@ -1049,8 +1049,6 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202410_i-v-n-d-des-sept-douleurs_NSD_ISV_234500,23:55:00,23:55:00,ISV,2,1,0,1
 202410_i-v-n-d-des-sept-douleurs_ISV_NSD_123000,12:30:00,12:30:00,ISV,1,0,1,1
 202410_i-v-n-d-des-sept-douleurs_ISV_NSD_123000,12:40:00,12:40:00,NSD,2,1,0,1
-202410_matane_GDB_MTN_170000,17:00:00,17:00:00,GDB,1,0,1,1
-202410_matane_GDB_MTN_170000,19:10:00,19:10:00,MTN,2,1,0,1
 202410_l-isle-aux-grues-montmagny_IAG_MMG_060000,06:00:00,06:00:00,IAG,1,0,1,1
 202410_l-isle-aux-grues-montmagny_IAG_MMG_060000,06:30:00,06:30:00,MMG,2,1,0,1
 202410_l-isle-aux-grues-montmagny_IAG_MMG_144500,14:45:00,14:45:00,IAG,1,0,1,1
@@ -1069,6 +1067,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202410_i-v-n-d-des-sept-douleurs_ISV_NSD_243000,24:40:00,24:40:00,NSD,2,1,0,1
 202410_matane_MTN_GDB_140000,14:00:00,14:00:00,MTN,1,0,1,1
 202410_matane_MTN_GDB_140000,16:10:00,16:10:00,GDB,2,1,0,1
+202410_matane_GDB_MTN_170000,17:00:00,17:00:00,GDB,1,0,1,1
+202410_matane_GDB_MTN_170000,19:10:00,19:10:00,MTN,2,1,0,1
 202410_l-isle-aux-grues-montmagny_IAG_MMG_063000,06:30:00,06:30:00,IAG,1,0,1,1
 202410_l-isle-aux-grues-montmagny_IAG_MMG_063000,07:00:00,07:00:00,MMG,2,1,0,1
 202410_l-isle-aux-grues-montmagny_MMG_IAG_160000,16:00:00,16:00:00,MMG,1,0,1,1
