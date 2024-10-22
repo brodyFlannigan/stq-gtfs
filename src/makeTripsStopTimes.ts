@@ -232,6 +232,16 @@ export function createTripsAndStopTimes(
       );
     });
   });
+  tripsData.sort((a, b) => a.trip_id.localeCompare(b.trip_id));
+  stopTimesData.sort(
+    (a, b) =>
+      a.trip_id.localeCompare(b.trip_id) ||
+      a.stop_sequence.localeCompare(b.stop_sequence)
+  );
+  calendarDates.sort(
+    (a, b) =>
+      a.service_id.localeCompare(b.service_id) || a.date.localeCompare(b.date)
+  );
 
   // Assigning service IDs based on unique sets of dates
   tripDateMap.forEach((dates, tripId) => {

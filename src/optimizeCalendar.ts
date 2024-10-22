@@ -94,6 +94,11 @@ export function optimizeCalendar(
       }
     });
   });
+  optimizedCalendarDates.sort(
+    (a, b) =>
+      a.service_id.localeCompare(b.service_id) || a.date.localeCompare(b.date)
+  );
+  calendar.sort((a, b) => a.service_id.localeCompare(b.service_id));
 
   return { calendar, calendarDates: optimizedCalendarDates };
 }
