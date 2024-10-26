@@ -289,6 +289,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202410_isle-aux-coudres_IAC_SJR_173000,17:50:00,17:50:00,SJR,2,1,0,1
 202410_isle-aux-coudres_IAC_SJR_180000,18:00:00,18:00:00,IAC,1,0,1,1
 202410_isle-aux-coudres_IAC_SJR_180000,18:20:00,18:20:00,SJR,2,1,0,1
+202410_isle-aux-coudres_IAC_SJR_183000,18:30:00,18:30:00,IAC,1,0,1,1
+202410_isle-aux-coudres_IAC_SJR_183000,18:50:00,18:50:00,SJR,2,1,0,1
 202410_isle-aux-coudres_IAC_SJR_190000,19:00:00,19:00:00,IAC,1,0,1,1
 202410_isle-aux-coudres_IAC_SJR_190000,19:20:00,19:20:00,SJR,2,1,0,1
 202410_isle-aux-coudres_IAC_SJR_200000,20:00:00,20:00:00,IAC,1,0,1,1
