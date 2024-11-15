@@ -96,6 +96,7 @@ service_a03ff01d,20241214,1
 service_a03ff01d,20241229,1
 service_a14f5da,20241103,2
 service_a5a109f2,20241108,2
+service_a6b209e2,20241119,2
 service_a90d1db7,20241102,1
 service_a90d1db7,20241111,2
 service_a90d1db7,20241121,1
