@@ -1,32 +1,32 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible,bikes_allowed
-h-harbour-chevery,service_1b3c3c2b,202411_h-harbour-chevery_CHE_HHB_040000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_a9167ca5,202411_h-harbour-chevery_CHE_HHB_040000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_467e1bbf,202411_h-harbour-chevery_CHE_HHB_053000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_43262015,202411_h-harbour-chevery_CHE_HHB_063000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_c71c8385,202411_h-harbour-chevery_CHE_HHB_074500,Harrington Harbour,0,0,1
-h-harbour-chevery,service_1b3c3c2b,202411_h-harbour-chevery_CHE_HHB_080000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_5c631181,202411_h-harbour-chevery_CHE_HHB_074500,Harrington Harbour,0,0,1
+h-harbour-chevery,service_a9167ca5,202411_h-harbour-chevery_CHE_HHB_080000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_9bfa200f,202411_h-harbour-chevery_CHE_HHB_083000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_59eb5ac,202411_h-harbour-chevery_CHE_HHB_091500,Harrington Harbour,0,0,1
-h-harbour-chevery,service_dbdc4de1,202411_h-harbour-chevery_CHE_HHB_093000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_3421f21f,202411_h-harbour-chevery_CHE_HHB_101500,Harrington Harbour,0,0,1
+h-harbour-chevery,service_f4fcea3d,202411_h-harbour-chevery_CHE_HHB_093000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_6c647031,202411_h-harbour-chevery_CHE_HHB_101500,Harrington Harbour,0,0,1
 h-harbour-chevery,service_9bfa200f,202411_h-harbour-chevery_CHE_HHB_121500,Harrington Harbour,0,0,1
-h-harbour-chevery,service_dbdc4de1,202411_h-harbour-chevery_CHE_HHB_131500,Harrington Harbour,0,0,1
+h-harbour-chevery,service_f4fcea3d,202411_h-harbour-chevery_CHE_HHB_131500,Harrington Harbour,0,0,1
 h-harbour-chevery,service_467e1bbf,202411_h-harbour-chevery_CHE_HHB_143000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_f51f1ec5,202411_h-harbour-chevery_CHE_HHB_150000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_a14f5da,202411_h-harbour-chevery_CHE_HHB_153000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_5b5ca3b3,202411_h-harbour-chevery_CHE_HHB_150000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_fd11a080,202411_h-harbour-chevery_CHE_HHB_153000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_eb90d480,202411_h-harbour-chevery_CHE_HHB_163000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_467e1bbf,202411_h-harbour-chevery_CHE_HHB_173000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_43262015,202411_h-harbour-chevery_CHE_HHB_183000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_eb90d480,202411_h-harbour-chevery_CHE_HHB_280000,Harrington Harbour,0,0,1
 h-harbour-chevery,service_467e1bbf,202411_h-harbour-chevery_HHB_CHE_050000,Chevery,1,0,1
 h-harbour-chevery,service_5974b1fb,202411_h-harbour-chevery_HHB_CHE_060000,Chevery,1,0,1
-h-harbour-chevery,service_7bb7072a,202411_h-harbour-chevery_HHB_CHE_070000,Chevery,1,0,1
-h-harbour-chevery,service_3421f21f,202411_h-harbour-chevery_HHB_CHE_080000,Chevery,1,0,1
-h-harbour-chevery,service_c71c8385,202411_h-harbour-chevery_HHB_CHE_083000,Chevery,1,0,1
+h-harbour-chevery,service_9b89073d,202411_h-harbour-chevery_HHB_CHE_070000,Chevery,1,0,1
+h-harbour-chevery,service_6c647031,202411_h-harbour-chevery_HHB_CHE_080000,Chevery,1,0,1
+h-harbour-chevery,service_5c631181,202411_h-harbour-chevery_HHB_CHE_083000,Chevery,1,0,1
 h-harbour-chevery,service_9bfa200f,202411_h-harbour-chevery_HHB_CHE_100000,Chevery,1,0,1
-h-harbour-chevery,service_dbdc4de1,202411_h-harbour-chevery_HHB_CHE_110000,Chevery,1,0,1
+h-harbour-chevery,service_f4fcea3d,202411_h-harbour-chevery_HHB_CHE_110000,Chevery,1,0,1
 h-harbour-chevery,service_59eb5ac,202411_h-harbour-chevery_HHB_CHE_123000,Chevery,1,0,1
-h-harbour-chevery,service_f1875449,202411_h-harbour-chevery_HHB_CHE_130000,Chevery,1,0,1
-h-harbour-chevery,service_11ea45e8,202411_h-harbour-chevery_HHB_CHE_140000,Chevery,1,0,1
+h-harbour-chevery,service_73e4dd5d,202411_h-harbour-chevery_HHB_CHE_130000,Chevery,1,0,1
+h-harbour-chevery,service_ded2ca0,202411_h-harbour-chevery_HHB_CHE_140000,Chevery,1,0,1
 h-harbour-chevery,service_9bfa200f,202411_h-harbour-chevery_HHB_CHE_150000,Chevery,1,0,1
 h-harbour-chevery,service_c2d1fd94,202411_h-harbour-chevery_HHB_CHE_160000,Chevery,1,0,1
 h-harbour-chevery,service_43262015,202411_h-harbour-chevery_HHB_CHE_170000,Chevery,1,0,1
@@ -248,7 +248,7 @@ quebec,service_fe3c6b48,202411_quebec_QUE_LEV_083000,Lévis,0,1,1
 quebec,service_e627c9f0,202411_quebec_QUE_LEV_090000,Lévis,0,1,1
 quebec,service_fe3c6b48,202411_quebec_QUE_LEV_093000,Lévis,0,1,1
 quebec,service_e627c9f0,202411_quebec_QUE_LEV_100000,Lévis,0,1,1
-quebec,service_fe3c6b48,202411_quebec_QUE_LEV_103000,Lévis,0,1,1
+quebec,service_a6b209e2,202411_quebec_QUE_LEV_103000,Lévis,0,1,1
 quebec,service_fe3c6b48,202411_quebec_QUE_LEV_110000,Lévis,0,1,1
 quebec,service_1db2765e,202411_quebec_QUE_LEV_114500,Lévis,0,1,1
 quebec,service_fe3c6b48,202411_quebec_QUE_LEV_120000,Lévis,0,1,1
@@ -498,20 +498,6 @@ tadoussac,service_fe3c6b48,202411_tadoussac_TAD_BSC_250000,Baie-Sainte-Catherine
 tadoussac,service_fe3c6b48,202411_tadoussac_TAD_BSC_260000,Baie-Sainte-Catherine,0,1,1
 tadoussac,service_fe3c6b48,202411_tadoussac_TAD_BSC_270000,Baie-Sainte-Catherine,0,1,1
 tadoussac,service_fe3c6b48,202411_tadoussac_TAD_BSC_280000,Baie-Sainte-Catherine,0,1,1
-h-harbour-chevery,service_6ce2948a,202412_h-harbour-chevery_CHE_HHB_040000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_945273ab,202412_h-harbour-chevery_CHE_HHB_074500,Harrington Harbour,0,0,1
-h-harbour-chevery,service_6ce2948a,202412_h-harbour-chevery_CHE_HHB_080000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_6970cb08,202412_h-harbour-chevery_CHE_HHB_093000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_60decd54,202412_h-harbour-chevery_CHE_HHB_101500,Harrington Harbour,0,0,1
-h-harbour-chevery,service_6970cb08,202412_h-harbour-chevery_CHE_HHB_131500,Harrington Harbour,0,0,1
-h-harbour-chevery,service_6ce2948a,202412_h-harbour-chevery_CHE_HHB_150000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_1838183a,202412_h-harbour-chevery_CHE_HHB_153000,Harrington Harbour,0,0,1
-h-harbour-chevery,service_76032100,202412_h-harbour-chevery_HHB_CHE_070000,Chevery,1,0,1
-h-harbour-chevery,service_60decd54,202412_h-harbour-chevery_HHB_CHE_080000,Chevery,1,0,1
-h-harbour-chevery,service_945273ab,202412_h-harbour-chevery_HHB_CHE_083000,Chevery,1,0,1
-h-harbour-chevery,service_6970cb08,202412_h-harbour-chevery_HHB_CHE_110000,Chevery,1,0,1
-h-harbour-chevery,service_60decd54,202412_h-harbour-chevery_HHB_CHE_130000,Chevery,1,0,1
-h-harbour-chevery,service_76032100,202412_h-harbour-chevery_HHB_CHE_140000,Chevery,1,0,1
 ile-d-entree-cap-aux-meules,service_25ae201b,202412_ile-d-entree-cap-aux-meules_CAM_IEN_063000,Ile d'Entrée,1,0,1
 ile-d-entree-cap-aux-meules,service_25ae201b,202412_ile-d-entree-cap-aux-meules_CAM_IEN_140000,Ile d'Entrée,1,0,1
 ile-d-entree-cap-aux-meules,service_25ae201b,202412_ile-d-entree-cap-aux-meules_IEN_CAM_080000,Cap-aux-Meules,0,0,1
