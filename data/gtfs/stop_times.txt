@@ -351,8 +351,6 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202411_l-isle-aux-grues-montmagny_MMG_IAG_163000,17:00:00,17:00:00,IAG,2,1,0,1
 202411_l-isle-aux-grues-montmagny_MMG_IAG_164500,16:45:00,16:45:00,MMG,1,0,1,1
 202411_l-isle-aux-grues-montmagny_MMG_IAG_164500,17:15:00,17:15:00,IAG,2,1,0,1
-202411_l-isle-aux-grues-montmagny_MMG_IAG_170000,17:00:00,17:00:00,MMG,1,0,1,1
-202411_l-isle-aux-grues-montmagny_MMG_IAG_170000,17:30:00,17:30:00,IAG,2,1,0,1
 202411_l-isle-aux-grues-montmagny_MMG_IAG_171500,17:15:00,17:15:00,MMG,1,0,1,1
 202411_l-isle-aux-grues-montmagny_MMG_IAG_171500,17:45:00,17:45:00,IAG,2,1,0,1
 202411_l-isle-aux-grues-montmagny_MMG_IAG_173000,17:30:00,17:30:00,MMG,1,0,1,1
