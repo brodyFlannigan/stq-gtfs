@@ -642,8 +642,8 @@ matane,service_8961a4cc,202412_matane_BCO_MTN_110000,Matane,1,1,1
 matane,service_fdf2ac5,202412_matane_BCO_MTN_170000,Matane,1,1,1
 matane,service_1c02b7f5,202412_matane_GDB_MTN_110000,Matane,1,1,1
 matane,service_dcedc077,202412_matane_GDB_MTN_170000,Matane,1,1,1
-matane,service_786454f2,202412_matane_MTN_BCO_080000,Baie-Comeau,0,1,1
-matane,service_2976cd9e,202412_matane_MTN_BCO_140000,Baie-Comeau,0,1,1
+matane,service_4e96ead7,202412_matane_MTN_BCO_080000,Baie-Comeau,0,1,1
+matane,service_37a7ee15,202412_matane_MTN_BCO_140000,Baie-Comeau,0,1,1
 matane,service_253ffcb9,202412_matane_MTN_GDB_080000,Godbout,0,1,1
 matane,service_8961a4cc,202412_matane_MTN_GDB_140000,Godbout,0,1,1
 quebec,service_1859e99f,202412_quebec_LEV_QUE_000000,Québec,1,1,1
