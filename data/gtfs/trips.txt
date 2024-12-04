@@ -128,12 +128,12 @@ l-isle-aux-grues-montmagny,service_521a4856,202412_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_251d78c0,202412_l-isle-aux-grues-montmagny_MMG_IAG_220000,L'Isle-aux-Grues,1,0,1
 l-isle-aux-grues-montmagny,service_f7fef35c,202412_l-isle-aux-grues-montmagny_MMG_IAG_221500,L'Isle-aux-Grues,1,0,1
 matane,service_8961a4cc,202412_matane_BCO_MTN_110000,Matane,1,1,1
-matane,service_fdf2ac5,202412_matane_BCO_MTN_170000,Matane,1,1,1
-matane,service_1c02b7f5,202412_matane_GDB_MTN_110000,Matane,1,1,1
+matane,service_de6a4478,202412_matane_BCO_MTN_170000,Matane,1,1,1
+matane,service_41b243bb,202412_matane_GDB_MTN_110000,Matane,1,1,1
 matane,service_dcedc077,202412_matane_GDB_MTN_170000,Matane,1,1,1
-matane,service_4e96ead7,202412_matane_MTN_BCO_080000,Baie-Comeau,0,1,1
-matane,service_37a7ee15,202412_matane_MTN_BCO_140000,Baie-Comeau,0,1,1
-matane,service_253ffcb9,202412_matane_MTN_GDB_080000,Godbout,0,1,1
+matane,service_b57cc600,202412_matane_MTN_BCO_080000,Baie-Comeau,0,1,1
+matane,service_ccdd610e,202412_matane_MTN_BCO_140000,Baie-Comeau,0,1,1
+matane,service_b3502535,202412_matane_MTN_GDB_080000,Godbout,0,1,1
 matane,service_8961a4cc,202412_matane_MTN_GDB_140000,Godbout,0,1,1
 quebec,service_1859e99f,202412_quebec_LEV_QUE_000000,Québec,1,1,1
 quebec,service_1859e99f,202412_quebec_LEV_QUE_010000,Québec,1,1,1
