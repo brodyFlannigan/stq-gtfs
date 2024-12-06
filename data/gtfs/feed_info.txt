@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_url
-Brody Flannigan Transit Data,https://transitdata.ca/,fr,fr,20241201,20250131,2024-12-04T14:41:20Z,https://github.com/brodyFlannigan/stq-gtfs/issues
+Brody Flannigan Transit Data,https://transitdata.ca/,fr,fr,20241201,20250131,2024-12-06T14:39:49Z,https://github.com/brodyFlannigan/stq-gtfs/issues
