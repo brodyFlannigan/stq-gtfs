@@ -661,6 +661,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202502_isle-aux-coudres_IAC_SJR_080000,08:20:00,08:20:00,SJR,2,1,0,1
 202502_isle-aux-coudres_IAC_SJR_090000,09:00:00,09:00:00,IAC,1,0,1,1
 202502_isle-aux-coudres_IAC_SJR_090000,09:20:00,09:20:00,SJR,2,1,0,1
+202502_isle-aux-coudres_IAC_SJR_100000,10:00:00,10:00:00,IAC,1,0,1,1
+202502_isle-aux-coudres_IAC_SJR_100000,10:20:00,10:20:00,SJR,2,1,0,1
 202502_isle-aux-coudres_IAC_SJR_110000,11:00:00,11:00:00,IAC,1,0,1,1
 202502_isle-aux-coudres_IAC_SJR_110000,11:20:00,11:20:00,SJR,2,1,0,1
 202502_isle-aux-coudres_IAC_SJR_130000,13:00:00,13:00:00,IAC,1,0,1,1
@@ -687,6 +689,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202502_isle-aux-coudres_SJR_IAC_083000,08:50:00,08:50:00,IAC,2,1,0,1
 202502_isle-aux-coudres_SJR_IAC_093000,09:30:00,09:30:00,SJR,1,0,1,1
 202502_isle-aux-coudres_SJR_IAC_093000,09:50:00,09:50:00,IAC,2,1,0,1
+202502_isle-aux-coudres_SJR_IAC_103000,10:30:00,10:30:00,SJR,1,0,1,1
+202502_isle-aux-coudres_SJR_IAC_103000,10:50:00,10:50:00,IAC,2,1,0,1
 202502_isle-aux-coudres_SJR_IAC_113000,11:30:00,11:30:00,SJR,1,0,1,1
 202502_isle-aux-coudres_SJR_IAC_113000,11:50:00,11:50:00,IAC,2,1,0,1
 202502_isle-aux-coudres_SJR_IAC_133000,13:30:00,13:30:00,SJR,1,0,1,1
