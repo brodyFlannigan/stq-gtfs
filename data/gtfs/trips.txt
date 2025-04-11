@@ -228,10 +228,10 @@ l-isle-aux-grues-montmagny,service_1b7365e3,202504_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_3733f239,202504_l-isle-aux-grues-montmagny_MMG_IAG_220000,L'Isle-aux-Grues,1,0,1
 l-isle-aux-grues-montmagny,service_26854a2,202504_l-isle-aux-grues-montmagny_MMG_IAG_221500,L'Isle-aux-Grues,1,0,1
 matane,service_473528e3,202504_matane_BCO_MTN_110000,Matane,1,1,1
-matane,service_f517ac6e,202504_matane_BCO_MTN_170000,Matane,1,1,1
+matane,service_109b0e26,202504_matane_BCO_MTN_170000,Matane,1,1,1
 matane,service_ea73e5b9,202504_matane_GDB_MTN_110000,Matane,1,1,1
 matane,service_2de0ab40,202504_matane_GDB_MTN_170000,Matane,1,1,1
-matane,service_150f7849,202504_matane_MTN_BCO_080000,Baie-Comeau,0,1,1
+matane,service_f1db9f36,202504_matane_MTN_BCO_080000,Baie-Comeau,0,1,1
 matane,service_d3ed1d1e,202504_matane_MTN_BCO_140000,Baie-Comeau,0,1,1
 matane,service_ad9f2493,202504_matane_MTN_GDB_080000,Godbout,0,1,1
 matane,service_b5e3f58a,202504_matane_MTN_GDB_140000,Godbout,0,1,1
