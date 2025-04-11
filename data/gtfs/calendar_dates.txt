@@ -1,4 +1,5 @@
 service_id,date,exception_type
+service_109b0e26,20250410,2
 service_1216fe84,20250404,1
 service_1216fe84,20250420,1
 service_1216fe84,20250421,1
@@ -257,6 +258,7 @@ service_ef907e03,20250422,2
 service_f17b95bc,20250404,2
 service_f17b95bc,20250410,2
 service_f17f693d,20250423,2
+service_f1db9f36,20250410,2
 service_f6365ff0,20250505,1
 service_f6365ff0,20250520,1
 service_f6365ff0,20250522,1
