@@ -1119,8 +1119,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202506_h-harbour-chevery_CHE_HHB_131500,13:45:00,13:45:00,HHB,2,1,0,1
 202506_h-harbour-chevery_CHE_HHB_153000,15:30:00,15:30:00,CHE,1,0,1,1
 202506_h-harbour-chevery_CHE_HHB_153000,16:00:00,16:00:00,HHB,2,1,0,1
-202506_h-harbour-chevery_CHE_HHB_160000,16:00:00,16:00:00,CHE,1,0,1,1
-202506_h-harbour-chevery_CHE_HHB_160000,16:30:00,16:30:00,HHB,2,1,0,1
+202506_h-harbour-chevery_CHE_HHB_163000,16:30:00,16:30:00,CHE,1,0,1,1
+202506_h-harbour-chevery_CHE_HHB_163000,17:00:00,17:00:00,HHB,2,1,0,1
 202506_h-harbour-chevery_CHE_HHB_183000,18:30:00,18:30:00,CHE,1,0,1,1
 202506_h-harbour-chevery_CHE_HHB_183000,19:00:00,19:00:00,HHB,2,1,0,1
 202506_h-harbour-chevery_CHE_HHB_280000,28:00:00,28:00:00,CHE,1,0,1,1
@@ -1139,8 +1139,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202506_h-harbour-chevery_HHB_CHE_133000,14:00:00,14:00:00,CHE,2,1,0,1
 202506_h-harbour-chevery_HHB_CHE_140000,14:00:00,14:00:00,HHB,1,0,1,1
 202506_h-harbour-chevery_HHB_CHE_140000,14:30:00,14:30:00,CHE,2,1,0,1
-202506_h-harbour-chevery_HHB_CHE_154500,15:45:00,15:45:00,HHB,1,0,1,1
-202506_h-harbour-chevery_HHB_CHE_154500,16:15:00,16:15:00,CHE,2,1,0,1
+202506_h-harbour-chevery_HHB_CHE_160000,16:00:00,16:00:00,HHB,1,0,1,1
+202506_h-harbour-chevery_HHB_CHE_160000,16:30:00,16:30:00,CHE,2,1,0,1
 202506_h-harbour-chevery_HHB_CHE_170000,17:00:00,17:00:00,HHB,1,0,1,1
 202506_h-harbour-chevery_HHB_CHE_170000,17:30:00,17:30:00,CHE,2,1,0,1
 202506_i-v-n-d-des-sept-douleurs_ISV_NSD_000000,00:00:00,00:00:00,ISV,1,0,1,1
