@@ -240,13 +240,13 @@ l-isle-aux-grues-montmagny,service_66ec3069,202505_l-isle-aux-grues-montmagny_MM
 matane,service_45b932b6,202505_matane_BCO_MTN_110000,Matane,1,1,1
 matane,service_c11457fb,202505_matane_BCO_MTN_170000,Matane,1,1,1
 matane,service_a7be5cec,202505_matane_BCO_MTN_173000,Matane,1,1,1
-matane,service_b0108797,202505_matane_GDB_MTN_110000,Matane,1,1,1
+matane,service_73998ba5,202505_matane_GDB_MTN_110000,Matane,1,1,1
 matane,service_d387f9f1,202505_matane_GDB_MTN_170000,Matane,1,1,1
 matane,service_7cc2b7a8,202505_matane_GDB_MTN_173000,Matane,1,1,1
 matane,service_e7ab217d,202505_matane_MTN_BCO_080000,Baie-Comeau,0,1,1
 matane,service_c4a50610,202505_matane_MTN_BCO_140000,Baie-Comeau,0,1,1
 matane,service_a7be5cec,202505_matane_MTN_BCO_141500,Baie-Comeau,0,1,1
-matane,service_24f2efa1,202505_matane_MTN_GDB_080000,Godbout,0,1,1
+matane,service_ed64aa31,202505_matane_MTN_GDB_080000,Godbout,0,1,1
 matane,service_8350e6c1,202505_matane_MTN_GDB_140000,Godbout,0,1,1
 matane,service_7cc2b7a8,202505_matane_MTN_GDB_141500,Godbout,0,1,1
 quebec,service_5c11042a,202505_quebec_LEV_QUE_000000,Québec,1,1,1
