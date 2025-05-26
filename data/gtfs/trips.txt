@@ -1,4 +1,24 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible,bikes_allowed
+h-harbour-chevery,service_d6ce1777,202505_h-harbour-chevery_CHE_HHB_040000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_32c0f4ca,202505_h-harbour-chevery_CHE_HHB_063000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_c3088b63,202505_h-harbour-chevery_CHE_HHB_073000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_d6ce1777,202505_h-harbour-chevery_CHE_HHB_080000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_3f0f656e,202505_h-harbour-chevery_CHE_HHB_093000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_cabec748,202505_h-harbour-chevery_CHE_HHB_101500,Harrington Harbour,0,0,1
+h-harbour-chevery,service_3f0f656e,202505_h-harbour-chevery_CHE_HHB_131500,Harrington Harbour,0,0,1
+h-harbour-chevery,service_4ff51780,202505_h-harbour-chevery_CHE_HHB_153000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_3f0f656e,202505_h-harbour-chevery_CHE_HHB_163000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_32c0f4ca,202505_h-harbour-chevery_CHE_HHB_183000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_a3cf0286,202505_h-harbour-chevery_CHE_HHB_280000,Harrington Harbour,0,0,1
+h-harbour-chevery,service_d6ce1777,202505_h-harbour-chevery_HHB_CHE_050000,Chevery,1,0,1
+h-harbour-chevery,service_32c0f4ca,202505_h-harbour-chevery_HHB_CHE_060000,Chevery,1,0,1
+h-harbour-chevery,service_c34deb58,202505_h-harbour-chevery_HHB_CHE_070000,Chevery,1,0,1
+h-harbour-chevery,service_5aabe26b,202505_h-harbour-chevery_HHB_CHE_080000,Chevery,1,0,1
+h-harbour-chevery,service_3f0f656e,202505_h-harbour-chevery_HHB_CHE_110000,Chevery,1,0,1
+h-harbour-chevery,service_cabec748,202505_h-harbour-chevery_HHB_CHE_133000,Chevery,1,0,1
+h-harbour-chevery,service_3f0f656e,202505_h-harbour-chevery_HHB_CHE_140000,Chevery,1,0,1
+h-harbour-chevery,service_3f0f656e,202505_h-harbour-chevery_HHB_CHE_160000,Chevery,1,0,1
+h-harbour-chevery,service_32c0f4ca,202505_h-harbour-chevery_HHB_CHE_170000,Chevery,1,0,1
 i-v-n-d-des-sept-douleurs,service_23dd627d,202505_i-v-n-d-des-sept-douleurs_ISV_NSD_000000,Notre-Dame-des-Sept-Douleurs,1,0,1
 i-v-n-d-des-sept-douleurs,service_af420730,202505_i-v-n-d-des-sept-douleurs_ISV_NSD_001500,Notre-Dame-des-Sept-Douleurs,1,0,1
 i-v-n-d-des-sept-douleurs,service_1738508,202505_i-v-n-d-des-sept-douleurs_ISV_NSD_003000,Notre-Dame-des-Sept-Douleurs,1,0,1
@@ -239,14 +259,14 @@ l-isle-aux-grues-montmagny,service_11eb00ff,202505_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_66ec3069,202505_l-isle-aux-grues-montmagny_MMG_IAG_220000,L'Isle-aux-Grues,1,0,1
 matane,service_45b932b6,202505_matane_BCO_MTN_110000,Matane,1,1,1
 matane,service_c11457fb,202505_matane_BCO_MTN_170000,Matane,1,1,1
-matane,service_4688cf1e,202505_matane_BCO_MTN_173000,Matane,1,1,1
-matane,service_889c40c0,202505_matane_GDB_MTN_110000,Matane,1,1,1
+matane,service_e3be2ed6,202505_matane_BCO_MTN_173000,Matane,1,1,1
+matane,service_8c6b8436,202505_matane_GDB_MTN_110000,Matane,1,1,1
 matane,service_d387f9f1,202505_matane_GDB_MTN_170000,Matane,1,1,1
 matane,service_7cc2b7a8,202505_matane_GDB_MTN_173000,Matane,1,1,1
 matane,service_e7ab217d,202505_matane_MTN_BCO_080000,Baie-Comeau,0,1,1
 matane,service_c4a50610,202505_matane_MTN_BCO_140000,Baie-Comeau,0,1,1
-matane,service_4688cf1e,202505_matane_MTN_BCO_141500,Baie-Comeau,0,1,1
-matane,service_70587c4e,202505_matane_MTN_GDB_080000,Godbout,0,1,1
+matane,service_e3be2ed6,202505_matane_MTN_BCO_141500,Baie-Comeau,0,1,1
+matane,service_9d145deb,202505_matane_MTN_GDB_080000,Godbout,0,1,1
 matane,service_8350e6c1,202505_matane_MTN_GDB_140000,Godbout,0,1,1
 matane,service_7cc2b7a8,202505_matane_MTN_GDB_141500,Godbout,0,1,1
 quebec,service_5c11042a,202505_quebec_LEV_QUE_000000,Québec,1,1,1
@@ -325,11 +345,11 @@ quebec,service_5c11042a,202505_quebec_QUE_LEV_233000,Lévis,0,1,1
 quebec,service_5c11042a,202505_quebec_QUE_LEV_243000,Lévis,0,1,1
 quebec,service_5c11042a,202505_quebec_QUE_LEV_253000,Lévis,0,1,1
 quebec,service_5c11042a,202505_quebec_QUE_LEV_262000,Lévis,0,1,1
-riv-st-augustin,service_e05e1759,202505_riv-st-augustin_PKS_SAG_061500,Saint-Augustin,0,2,1
-riv-st-augustin,service_e05e1759,202505_riv-st-augustin_PKS_SAG_071500,Saint-Augustin,0,2,1
-riv-st-augustin,service_e05e1759,202505_riv-st-augustin_PKS_SAG_074500,Saint-Augustin,0,2,1
+riv-st-augustin,service_c5afd8c4,202505_riv-st-augustin_PKS_SAG_061500,Saint-Augustin,0,2,1
+riv-st-augustin,service_c5afd8c4,202505_riv-st-augustin_PKS_SAG_071500,Saint-Augustin,0,2,1
+riv-st-augustin,service_c5afd8c4,202505_riv-st-augustin_PKS_SAG_074500,Saint-Augustin,0,2,1
 riv-st-augustin,service_dbd48b9b,202505_riv-st-augustin_PKS_SAG_081500,Saint-Augustin,0,2,1
-riv-st-augustin,service_e05e1759,202505_riv-st-augustin_PKS_SAG_084500,Saint-Augustin,0,2,1
+riv-st-augustin,service_c5afd8c4,202505_riv-st-augustin_PKS_SAG_084500,Saint-Augustin,0,2,1
 riv-st-augustin,service_dbd48b9b,202505_riv-st-augustin_PKS_SAG_094500,Saint-Augustin,0,2,1
 riv-st-augustin,service_e05e1759,202505_riv-st-augustin_PKS_SAG_120000,Saint-Augustin,0,2,1
 riv-st-augustin,service_c6834d8d,202505_riv-st-augustin_PKS_SAG_133000,Saint-Augustin,0,2,1
@@ -344,11 +364,11 @@ riv-st-augustin,service_61ad9a81,202505_riv-st-augustin_PKS_SAG_173000,Saint-Aug
 riv-st-augustin,service_1c2ec93a,202505_riv-st-augustin_PKS_SAG_174500,Saint-Augustin,0,2,1
 riv-st-augustin,service_f4b6b174,202505_riv-st-augustin_PKS_SAG_180000,Saint-Augustin,0,2,1
 riv-st-augustin,service_ff0ae247,202505_riv-st-augustin_PKS_SAG_190000,Saint-Augustin,0,2,1
-riv-st-augustin,service_e05e1759,202505_riv-st-augustin_SAG_PKS_063000,Pakuashipi,1,2,1
-riv-st-augustin,service_e05e1759,202505_riv-st-augustin_SAG_PKS_073000,Pakuashipi,1,2,1
-riv-st-augustin,service_e05e1759,202505_riv-st-augustin_SAG_PKS_080000,Pakuashipi,1,2,1
+riv-st-augustin,service_c5afd8c4,202505_riv-st-augustin_SAG_PKS_063000,Pakuashipi,1,2,1
+riv-st-augustin,service_c5afd8c4,202505_riv-st-augustin_SAG_PKS_073000,Pakuashipi,1,2,1
+riv-st-augustin,service_c5afd8c4,202505_riv-st-augustin_SAG_PKS_080000,Pakuashipi,1,2,1
 riv-st-augustin,service_dbd48b9b,202505_riv-st-augustin_SAG_PKS_083000,Pakuashipi,1,2,1
-riv-st-augustin,service_e05e1759,202505_riv-st-augustin_SAG_PKS_090000,Pakuashipi,1,2,1
+riv-st-augustin,service_c5afd8c4,202505_riv-st-augustin_SAG_PKS_090000,Pakuashipi,1,2,1
 riv-st-augustin,service_dbd48b9b,202505_riv-st-augustin_SAG_PKS_100000,Pakuashipi,1,2,1
 riv-st-augustin,service_e05e1759,202505_riv-st-augustin_SAG_PKS_121500,Pakuashipi,1,2,1
 riv-st-augustin,service_c6834d8d,202505_riv-st-augustin_SAG_PKS_134500,Pakuashipi,1,2,1
