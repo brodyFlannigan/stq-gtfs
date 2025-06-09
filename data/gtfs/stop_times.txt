@@ -455,6 +455,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202506_l-isle-aux-grues-montmagny_IAG_MMG_160000,16:30:00,16:30:00,MMG,2,1,0,1
 202506_l-isle-aux-grues-montmagny_IAG_MMG_161500,16:15:00,16:15:00,IAG,1,0,1,1
 202506_l-isle-aux-grues-montmagny_IAG_MMG_161500,16:45:00,16:45:00,MMG,2,1,0,1
+202506_l-isle-aux-grues-montmagny_IAG_MMG_163000,16:30:00,16:30:00,IAG,1,0,1,1
+202506_l-isle-aux-grues-montmagny_IAG_MMG_163000,17:00:00,17:00:00,MMG,2,1,0,1
 202506_l-isle-aux-grues-montmagny_IAG_MMG_170000,17:00:00,17:00:00,IAG,1,0,1,1
 202506_l-isle-aux-grues-montmagny_IAG_MMG_170000,17:30:00,17:30:00,MMG,2,1,0,1
 202506_l-isle-aux-grues-montmagny_IAG_MMG_171500,17:15:00,17:15:00,IAG,1,0,1,1
@@ -565,6 +567,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202506_matane_BCO_MTN_173000,19:50:00,19:50:00,MTN,2,1,0,1
 202506_matane_GDB_MTN_110000,11:00:00,11:00:00,GDB,1,0,1,1
 202506_matane_GDB_MTN_110000,13:10:00,13:10:00,MTN,2,1,0,1
+202506_matane_GDB_MTN_120000,12:00:00,12:00:00,GDB,1,0,1,1
+202506_matane_GDB_MTN_120000,14:10:00,14:10:00,MTN,2,1,0,1
 202506_matane_GDB_MTN_173000,17:30:00,17:30:00,GDB,1,0,1,1
 202506_matane_GDB_MTN_173000,19:40:00,19:40:00,MTN,2,1,0,1
 202506_matane_MTN_BCO_080000,08:00:00,08:00:00,MTN,1,0,1,1
