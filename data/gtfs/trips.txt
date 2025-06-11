@@ -290,7 +290,7 @@ matane,service_4620c0f3,202506_matane_MTN_BCO_141500,Baie-Comeau,0,1,1
 matane,service_a4fdb781,202506_matane_MTN_GDB_080000,Godbout,0,1,1
 matane,service_702a9c94,202506_matane_MTN_GDB_141500,Godbout,0,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_000000,Québec,1,1,1
-quebec,service_61e8beec,202506_quebec_LEV_QUE_010000,Québec,1,1,1
+quebec,service_a6e4ce6a,202506_quebec_LEV_QUE_010000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_020000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_060000,Québec,1,1,1
 quebec,service_e813e300,202506_quebec_LEV_QUE_064000,Québec,1,1,1
@@ -323,10 +323,10 @@ quebec,service_b9675961,202506_quebec_LEV_QUE_210000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_220000,Québec,1,1,1
 quebec,service_768a8fd,202506_quebec_LEV_QUE_230000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_240000,Québec,1,1,1
-quebec,service_85fbd89d,202506_quebec_LEV_QUE_250000,Québec,1,1,1
+quebec,service_7d949490,202506_quebec_LEV_QUE_250000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_260000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_QUE_LEV_003000,Lévis,0,1,1
-quebec,service_61e8beec,202506_quebec_QUE_LEV_013000,Lévis,0,1,1
+quebec,service_a6e4ce6a,202506_quebec_QUE_LEV_013000,Lévis,0,1,1
 quebec,service_b9675961,202506_quebec_QUE_LEV_022000,Lévis,0,1,1
 quebec,service_e813e300,202506_quebec_QUE_LEV_062000,Lévis,0,1,1
 quebec,service_be4fc149,202506_quebec_QUE_LEV_063000,Lévis,0,1,1
@@ -362,7 +362,7 @@ quebec,service_6d42aec6,202506_quebec_QUE_LEV_230000,Lévis,0,1,1
 quebec,service_768a8fd,202506_quebec_QUE_LEV_233000,Lévis,0,1,1
 quebec,service_6d42aec6,202506_quebec_QUE_LEV_234000,Lévis,0,1,1
 quebec,service_b9675961,202506_quebec_QUE_LEV_243000,Lévis,0,1,1
-quebec,service_85fbd89d,202506_quebec_QUE_LEV_253000,Lévis,0,1,1
+quebec,service_7d949490,202506_quebec_QUE_LEV_253000,Lévis,0,1,1
 quebec,service_b9675961,202506_quebec_QUE_LEV_262000,Lévis,0,1,1
 riv-st-augustin,service_e813e300,202506_riv-st-augustin_PKS_SAG_061500,Saint-Augustin,0,2,1
 riv-st-augustin,service_e813e300,202506_riv-st-augustin_PKS_SAG_071500,Saint-Augustin,0,2,1
