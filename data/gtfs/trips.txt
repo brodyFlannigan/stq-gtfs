@@ -260,7 +260,7 @@ quebec,service_b9675961,202506_quebec_LEV_QUE_000000,Québec,1,1,1
 quebec,service_a6e4ce6a,202506_quebec_LEV_QUE_010000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_020000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_060000,Québec,1,1,1
-quebec,service_e813e300,202506_quebec_LEV_QUE_064000,Québec,1,1,1
+quebec,service_7ee63140,202506_quebec_LEV_QUE_064000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_070000,Québec,1,1,1
 quebec,service_924c9733,202506_quebec_LEV_QUE_073000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_LEV_QUE_080000,Québec,1,1,1
@@ -295,9 +295,9 @@ quebec,service_b9675961,202506_quebec_LEV_QUE_260000,Québec,1,1,1
 quebec,service_b9675961,202506_quebec_QUE_LEV_003000,Lévis,0,1,1
 quebec,service_a6e4ce6a,202506_quebec_QUE_LEV_013000,Lévis,0,1,1
 quebec,service_b9675961,202506_quebec_QUE_LEV_022000,Lévis,0,1,1
-quebec,service_e813e300,202506_quebec_QUE_LEV_062000,Lévis,0,1,1
-quebec,service_be4fc149,202506_quebec_QUE_LEV_063000,Lévis,0,1,1
-quebec,service_e813e300,202506_quebec_QUE_LEV_070000,Lévis,0,1,1
+quebec,service_7ee63140,202506_quebec_QUE_LEV_062000,Lévis,0,1,1
+quebec,service_b659046b,202506_quebec_QUE_LEV_063000,Lévis,0,1,1
+quebec,service_7ee63140,202506_quebec_QUE_LEV_070000,Lévis,0,1,1
 quebec,service_b9675961,202506_quebec_QUE_LEV_073000,Lévis,0,1,1
 quebec,service_924c9733,202506_quebec_QUE_LEV_080000,Lévis,0,1,1
 quebec,service_b9675961,202506_quebec_QUE_LEV_083000,Lévis,0,1,1
@@ -709,6 +709,7 @@ ile-d-entree-cap-aux-meules,service_369392ea,202507_ile-d-entree-cap-aux-meules_
 ile-d-entree-cap-aux-meules,service_369392ea,202507_ile-d-entree-cap-aux-meules_CAM_IEN_140000,Ile d'Entrée,1,0,1
 ile-d-entree-cap-aux-meules,service_369392ea,202507_ile-d-entree-cap-aux-meules_IEN_CAM_080000,Cap-aux-Meules,0,0,1
 ile-d-entree-cap-aux-meules,service_369392ea,202507_ile-d-entree-cap-aux-meules_IEN_CAM_153000,Cap-aux-Meules,0,0,1
+isle-aux-coudres,service_cb883cfb,202507_isle-aux-coudres_IAC_SJR_000000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,service_be7210b7,202507_isle-aux-coudres_IAC_SJR_060000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_IAC_SJR_070000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_IAC_SJR_080000,Saint-Joseph-de-la-Rive,0,0,1
@@ -736,6 +737,8 @@ isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_IAC_SJR_200000,Saint-J
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_IAC_SJR_210000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_IAC_SJR_220000,Saint-Joseph-de-la-Rive,0,0,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_IAC_SJR_230000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,service_52816d41,202507_isle-aux-coudres_IAC_SJR_240000,Saint-Joseph-de-la-Rive,0,0,1
+isle-aux-coudres,service_cb883cfb,202507_isle-aux-coudres_SJR_IAC_003000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,service_be7210b7,202507_isle-aux-coudres_SJR_IAC_063000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_073000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_083000,L'Isle-aux-Coudres,1,0,1
@@ -763,6 +766,7 @@ isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_203000,L'Isle-
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_213000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_223000,L'Isle-aux-Coudres,1,0,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_233000,L'Isle-aux-Coudres,1,0,1
+isle-aux-coudres,service_52816d41,202507_isle-aux-coudres_SJR_IAC_243000,L'Isle-aux-Coudres,1,0,1
 l-isle-aux-grues-montmagny,service_5e6a9085,202507_l-isle-aux-grues-montmagny_IAG_MMG_060000,Montmagny,0,0,1
 l-isle-aux-grues-montmagny,service_9b5f8b02,202507_l-isle-aux-grues-montmagny_IAG_MMG_063000,Montmagny,0,0,1
 l-isle-aux-grues-montmagny,service_60bf0847,202507_l-isle-aux-grues-montmagny_IAG_MMG_064500,Montmagny,0,0,1
@@ -872,7 +876,7 @@ quebec,service_8e1414ac,202507_quebec_LEV_QUE_000000,Québec,1,1,1
 quebec,service_8e1414ac,202507_quebec_LEV_QUE_010000,Québec,1,1,1
 quebec,service_8e1414ac,202507_quebec_LEV_QUE_020000,Québec,1,1,1
 quebec,service_8e1414ac,202507_quebec_LEV_QUE_060000,Québec,1,1,1
-quebec,service_be7210b7,202507_quebec_LEV_QUE_064000,Québec,1,1,1
+quebec,service_e3cd4a26,202507_quebec_LEV_QUE_064000,Québec,1,1,1
 quebec,service_8e1414ac,202507_quebec_LEV_QUE_070000,Québec,1,1,1
 quebec,service_369392ea,202507_quebec_LEV_QUE_073000,Québec,1,1,1
 quebec,service_8e1414ac,202507_quebec_LEV_QUE_080000,Québec,1,1,1
@@ -907,9 +911,9 @@ quebec,service_8e1414ac,202507_quebec_LEV_QUE_260000,Québec,1,1,1
 quebec,service_8e1414ac,202507_quebec_QUE_LEV_003000,Lévis,0,1,1
 quebec,service_8e1414ac,202507_quebec_QUE_LEV_013000,Lévis,0,1,1
 quebec,service_8e1414ac,202507_quebec_QUE_LEV_022000,Lévis,0,1,1
-quebec,service_be7210b7,202507_quebec_QUE_LEV_062000,Lévis,0,1,1
-quebec,service_19cb38ba,202507_quebec_QUE_LEV_063000,Lévis,0,1,1
-quebec,service_be7210b7,202507_quebec_QUE_LEV_070000,Lévis,0,1,1
+quebec,service_e3cd4a26,202507_quebec_QUE_LEV_062000,Lévis,0,1,1
+quebec,service_59abc97,202507_quebec_QUE_LEV_063000,Lévis,0,1,1
+quebec,service_e3cd4a26,202507_quebec_QUE_LEV_070000,Lévis,0,1,1
 quebec,service_8e1414ac,202507_quebec_QUE_LEV_073000,Lévis,0,1,1
 quebec,service_369392ea,202507_quebec_QUE_LEV_080000,Lévis,0,1,1
 quebec,service_8e1414ac,202507_quebec_QUE_LEV_083000,Lévis,0,1,1
