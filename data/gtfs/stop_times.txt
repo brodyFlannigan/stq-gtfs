@@ -1419,6 +1419,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202507_ile-d-entree-cap-aux-meules_IEN_CAM_080000,09:00:00,09:00:00,CAM,2,1,0,1
 202507_ile-d-entree-cap-aux-meules_IEN_CAM_153000,15:30:00,15:30:00,IEN,1,0,1,1
 202507_ile-d-entree-cap-aux-meules_IEN_CAM_153000,16:30:00,16:30:00,CAM,2,1,0,1
+202507_isle-aux-coudres_IAC_SJR_000000,00:00:00,00:00:00,IAC,1,0,1,1
+202507_isle-aux-coudres_IAC_SJR_000000,00:20:00,00:20:00,SJR,2,1,0,1
 202507_isle-aux-coudres_IAC_SJR_060000,06:00:00,06:00:00,IAC,1,0,1,1
 202507_isle-aux-coudres_IAC_SJR_060000,06:20:00,06:20:00,SJR,2,1,0,1
 202507_isle-aux-coudres_IAC_SJR_070000,07:00:00,07:00:00,IAC,1,0,1,1
@@ -1473,6 +1475,10 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202507_isle-aux-coudres_IAC_SJR_220000,22:20:00,22:20:00,SJR,2,1,0,1
 202507_isle-aux-coudres_IAC_SJR_230000,23:00:00,23:00:00,IAC,1,0,1,1
 202507_isle-aux-coudres_IAC_SJR_230000,23:20:00,23:20:00,SJR,2,1,0,1
+202507_isle-aux-coudres_IAC_SJR_240000,24:00:00,24:00:00,IAC,1,0,1,1
+202507_isle-aux-coudres_IAC_SJR_240000,24:20:00,24:20:00,SJR,2,1,0,1
+202507_isle-aux-coudres_SJR_IAC_003000,00:30:00,00:30:00,SJR,1,0,1,1
+202507_isle-aux-coudres_SJR_IAC_003000,00:50:00,00:50:00,IAC,2,1,0,1
 202507_isle-aux-coudres_SJR_IAC_063000,06:30:00,06:30:00,SJR,1,0,1,1
 202507_isle-aux-coudres_SJR_IAC_063000,06:50:00,06:50:00,IAC,2,1,0,1
 202507_isle-aux-coudres_SJR_IAC_073000,07:30:00,07:30:00,SJR,1,0,1,1
@@ -1527,6 +1533,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202507_isle-aux-coudres_SJR_IAC_223000,22:50:00,22:50:00,IAC,2,1,0,1
 202507_isle-aux-coudres_SJR_IAC_233000,23:30:00,23:30:00,SJR,1,0,1,1
 202507_isle-aux-coudres_SJR_IAC_233000,23:50:00,23:50:00,IAC,2,1,0,1
+202507_isle-aux-coudres_SJR_IAC_243000,24:30:00,24:30:00,SJR,1,0,1,1
+202507_isle-aux-coudres_SJR_IAC_243000,24:50:00,24:50:00,IAC,2,1,0,1
 202507_l-isle-aux-grues-montmagny_IAG_MMG_060000,06:00:00,06:00:00,IAG,1,0,1,1
 202507_l-isle-aux-grues-montmagny_IAG_MMG_060000,06:30:00,06:30:00,MMG,2,1,0,1
 202507_l-isle-aux-grues-montmagny_IAG_MMG_063000,06:30:00,06:30:00,IAG,1,0,1,1
