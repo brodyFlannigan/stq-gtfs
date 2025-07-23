@@ -471,8 +471,6 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202507_l-isle-aux-grues-montmagny_IAG_MMG_161500,16:45:00,16:45:00,MMG,2,1,0,1
 202507_l-isle-aux-grues-montmagny_IAG_MMG_163000,16:30:00,16:30:00,IAG,1,0,1,1
 202507_l-isle-aux-grues-montmagny_IAG_MMG_163000,17:00:00,17:00:00,MMG,2,1,0,1
-202507_l-isle-aux-grues-montmagny_IAG_MMG_164500,16:45:00,16:45:00,IAG,1,0,1,1
-202507_l-isle-aux-grues-montmagny_IAG_MMG_164500,17:15:00,17:15:00,MMG,2,1,0,1
 202507_l-isle-aux-grues-montmagny_IAG_MMG_170000,17:00:00,17:00:00,IAG,1,0,1,1
 202507_l-isle-aux-grues-montmagny_IAG_MMG_170000,17:30:00,17:30:00,MMG,2,1,0,1
 202507_l-isle-aux-grues-montmagny_IAG_MMG_174500,17:45:00,17:45:00,IAG,1,0,1,1
@@ -1635,8 +1633,6 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202508_isle-aux-coudres_SJR_IAC_223000,22:50:00,22:50:00,IAC,2,1,0,1
 202508_isle-aux-coudres_SJR_IAC_233000,23:30:00,23:30:00,SJR,1,0,1,1
 202508_isle-aux-coudres_SJR_IAC_233000,23:50:00,23:50:00,IAC,2,1,0,1
-202508_l-isle-aux-grues-montmagny_IAG_MMG_001500,00:15:00,00:15:00,IAG,1,0,1,1
-202508_l-isle-aux-grues-montmagny_IAG_MMG_001500,00:45:00,00:45:00,MMG,2,1,0,1
 202508_l-isle-aux-grues-montmagny_IAG_MMG_060000,06:00:00,06:00:00,IAG,1,0,1,1
 202508_l-isle-aux-grues-montmagny_IAG_MMG_060000,06:30:00,06:30:00,MMG,2,1,0,1
 202508_l-isle-aux-grues-montmagny_IAG_MMG_061500,06:15:00,06:15:00,IAG,1,0,1,1
@@ -1737,10 +1733,6 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202508_l-isle-aux-grues-montmagny_IAG_MMG_214500,22:15:00,22:15:00,MMG,2,1,0,1
 202508_l-isle-aux-grues-montmagny_IAG_MMG_221500,22:15:00,22:15:00,IAG,1,0,1,1
 202508_l-isle-aux-grues-montmagny_IAG_MMG_221500,22:45:00,22:45:00,MMG,2,1,0,1
-202508_l-isle-aux-grues-montmagny_IAG_MMG_241500,24:15:00,24:15:00,IAG,1,0,1,1
-202508_l-isle-aux-grues-montmagny_IAG_MMG_241500,24:45:00,24:45:00,MMG,2,1,0,1
-202508_l-isle-aux-grues-montmagny_MMG_IAG_010000,01:00:00,01:00:00,MMG,1,0,1,1
-202508_l-isle-aux-grues-montmagny_MMG_IAG_010000,01:30:00,01:30:00,IAG,2,1,0,1
 202508_l-isle-aux-grues-montmagny_MMG_IAG_064500,06:45:00,06:45:00,MMG,1,0,1,1
 202508_l-isle-aux-grues-montmagny_MMG_IAG_064500,07:15:00,07:15:00,IAG,2,1,0,1
 202508_l-isle-aux-grues-montmagny_MMG_IAG_070000,07:00:00,07:00:00,MMG,1,0,1,1
@@ -1841,8 +1833,6 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202508_l-isle-aux-grues-montmagny_MMG_IAG_223000,23:00:00,23:00:00,IAG,2,1,0,1
 202508_l-isle-aux-grues-montmagny_MMG_IAG_230000,23:00:00,23:00:00,MMG,1,0,1,1
 202508_l-isle-aux-grues-montmagny_MMG_IAG_230000,23:30:00,23:30:00,IAG,2,1,0,1
-202508_l-isle-aux-grues-montmagny_MMG_IAG_250000,25:00:00,25:00:00,MMG,1,0,1,1
-202508_l-isle-aux-grues-montmagny_MMG_IAG_250000,25:30:00,25:30:00,IAG,2,1,0,1
 202508_matane_BCO_MTN_110000,11:00:00,11:00:00,BCO,1,0,1,1
 202508_matane_BCO_MTN_110000,13:20:00,13:20:00,MTN,2,1,0,1
 202508_matane_BCO_MTN_173000,17:30:00,17:30:00,BCO,1,0,1,1
