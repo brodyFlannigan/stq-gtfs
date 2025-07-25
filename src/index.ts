@@ -69,6 +69,7 @@ async function runScheduleProcessor() {
       "direction_id",
       "wheelchair_accessible",
       "bikes_allowed",
+      "cars_allowed",
     ],
     TripsAndStopTimes.tripsData
   );
@@ -83,6 +84,7 @@ async function runScheduleProcessor() {
       "pickup_type",
       "drop_off_type",
       "timepoint",
+      "pickup_booking_rule_id",
     ],
     TripsAndStopTimes.stopTimesData
   );

@@ -9,6 +9,7 @@ import {
 } from "date-fns";
 import { fromZonedTime, toZonedTime } from "date-fns-tz";
 import crc32 from "crc/crc32";
+
 interface ServicePattern {
   route_id: string;
   access_data: { wheelchair_accessible: string; bikes_allowed: string };
@@ -39,6 +40,7 @@ interface TripData {
   direction_id: string;
   wheelchair_accessible: string;
   bikes_allowed: string;
+  cars_allowed: string; // ✅ New field
 }
 
 interface StopTimeData {
@@ -51,6 +53,7 @@ interface StopTimeData {
   pickup_type: string;
   drop_off_type: string;
   timepoint: string;
+  pickup_booking_rule_id: string; // ✅ New field
 }
 
 export interface CalendarDate {
@@ -80,34 +83,13 @@ function getAdjustedTime(
   const localServiceDateTime = `${serviceDate}T04:00:00`;
   const utcServiceDateTime = fromZonedTime(localServiceDateTime, localTimeZone);
   const normalizedTripDateTime = toZonedTime(utcTripDateTime, targetTimeZone);
-  const normalizedServiceDateTime = toZonedTime(
-    utcServiceDateTime,
-    targetTimeZone
-  );
 
-  const serviceTripDateDifference = differenceInDays(
+  const adjustedTripHours =
+    getHours(normalizedTripDateTime) + (tripDate != serviceDate ? 24 : 0);
+  return `${adjustedTripHours.toString().padStart(2, "0")}:${format(
     normalizedTripDateTime,
-    normalizedServiceDateTime
-  );
-
-  const adjustedTripHours = getHours(normalizedTripDateTime);
-  const adjustmentToTripHours = 0;
-  if (tripDate != serviceDate) {
-    let adjustedTripHours = +getHours(normalizedTripDateTime) + 24;
-    function getAdjustedTripHours() {
-      return adjustedTripHours.toString(10);
-    }
-    const adjustedGtfsTripTime = `${getAdjustedTripHours()}:${format(
-      normalizedTripDateTime,
-      "mm:ss"
-    )}`;
-    return adjustedGtfsTripTime;
-  }
-  const gtfsTripTime = `${adjustedTripHours
-    .toString(10)
-    .padStart(2, "0")}:${format(normalizedTripDateTime, "mm:ss")}`;
-
-  return gtfsTripTime;
+    "mm:ss"
+  )}`;
 }
 
 function addMinutesToTime(time: string, minutesToAdd: number): string {
@@ -137,7 +119,7 @@ export function createTripsAndStopTimes(
     );
     if (!patterns) {
       console.error(`No service patterns found for route_id: ${route}`);
-      return; // Skip processing this route if no patterns are found
+      return;
     }
 
     data.trajet.forEach((trajet: any) => {
@@ -151,87 +133,117 @@ export function createTripsAndStopTimes(
         console.error(
           `No matching service pattern found for route_id: ${route} on ${trajet.rive_depart} to ${trajet.rive_arrivee}`
         );
-        return; // Skip processing this trajet if no matching pattern is found
+        return;
       }
 
       if (!trajet.jour || trajet.jour.length === 0) {
         console.log(
           `Skipping day with no service for route_id: ${route} from ${trajet.rive_depart} to ${trajet.rive_arrivee}`
         );
-        return; // Skip processing this trajet if 'jour' is empty
+        return;
       }
 
       trajet.jour.forEach(
-        (jour: { depart: { heure: string; date: string }[]; date: string }) => {
+        (jour: {
+          depart: { heure: string; date: string; type: string }[];
+          date: string;
+        }) => {
           if (!jour.depart || jour.depart.length === 0) {
-            // console.log(`No departures found for route_id: ${route} on date ${jour.date}`);
-            return; // Skip processing this jour if 'depart' is empty
+            return;
           }
 
-          jour.depart.forEach((depart: { heure: string; date: string }) => {
-            const yearMonth = format(parseISO(jour.date), "yyyyMM");
-            const departureTime = getAdjustedTime(
-              depart.heure,
-              depart.date,
-              jour.date,
-              pattern.gtfs_departure_stop_id
-            );
-            const tripId = `${yearMonth}_${route}_${
-              pattern.gtfs_departure_stop_id
-            }_${pattern.gtfs_arrival_stop_id}_${departureTime.replace(
-              /:/g,
-              ""
-            )}`;
+          jour.depart.forEach(
+            (depart: { heure: string; date: string; type: string }) => {
+              const yearMonth = format(parseISO(jour.date), "yyyyMM");
+              const departureTime = getAdjustedTime(
+                depart.heure,
+                depart.date,
+                jour.date,
+                pattern.gtfs_departure_stop_id
+              );
 
-            const arrivalTimeAtFirstStop = departureTime;
+              // ✅ trip_id now includes depart.type
+              const tripId = `${yearMonth}_${route}_${
+                pattern.gtfs_departure_stop_id
+              }_${pattern.gtfs_arrival_stop_id}_${departureTime.replace(
+                /:/g,
+                ""
+              )}_${depart.type}`;
 
-            const travelMinutes = pattern.travel_minutes;
-            const arrivalTimeAtSecondStop = addMinutesToTime(
-              arrivalTimeAtFirstStop,
-              travelMinutes
-            );
+              // ✅ cars_allowed logic
+              const carsAllowed = [
+                "regular",
+                "required-reservation",
+                "notice_tide",
+              ].includes(depart.type)
+                ? "1"
+                : "2";
 
-            if (!tripDateMap.has(tripId)) {
-              tripsData.push({
-                route_id: route,
-                service_id: "", // Will be updated
-                trip_id: tripId,
-                trip_headsign: pattern.gtfs_trip_headsign,
-                direction_id: pattern.gtfs_direction_id,
-                wheelchair_accessible: pattern.wheelchair_accessible,
-                bikes_allowed: pattern.bikes_allowed,
-              });
-              stopTimesData.push({
-                trip_id: tripId,
-                arrival_time: arrivalTimeAtFirstStop,
-                departure_time: arrivalTimeAtFirstStop,
-                stop_id: pattern.gtfs_departure_stop_id,
-                stop_sequence: "1",
-                pickup_type: "0",
-                drop_off_type: "1",
-                timepoint: "1",
-              });
-              stopTimesData.push({
-                trip_id: tripId,
-                arrival_time: arrivalTimeAtSecondStop,
-                departure_time: arrivalTimeAtSecondStop,
-                stop_id: pattern.gtfs_arrival_stop_id,
-                stop_sequence: "2",
-                pickup_type: "1",
-                drop_off_type: "0",
-                timepoint: "1",
-              });
-              tripDateMap.set(tripId, new Set());
+              // ✅ bikes_allowed logic
+              const bikesAllowed = [
+                "foot-only",
+                "air-transport",
+                "dangerous-cargo",
+              ].includes(depart.type)
+                ? "2"
+                : "1";
+
+              const arrivalTimeAtFirstStop = departureTime;
+              const travelMinutes = pattern.travel_minutes;
+              const arrivalTimeAtSecondStop = addMinutesToTime(
+                arrivalTimeAtFirstStop,
+                travelMinutes
+              );
+
+              if (!tripDateMap.has(tripId)) {
+                tripsData.push({
+                  route_id: route,
+                  service_id: "",
+                  trip_id: tripId,
+                  trip_headsign: pattern.gtfs_trip_headsign,
+                  direction_id: pattern.gtfs_direction_id,
+                  wheelchair_accessible: pattern.wheelchair_accessible,
+                  bikes_allowed: bikesAllowed,
+                  cars_allowed: carsAllowed,
+                });
+
+                stopTimesData.push({
+                  trip_id: tripId,
+                  arrival_time: arrivalTimeAtFirstStop,
+                  departure_time: arrivalTimeAtFirstStop,
+                  stop_id: pattern.gtfs_departure_stop_id,
+                  stop_sequence: "1",
+                  pickup_type: "0",
+                  drop_off_type: "1",
+                  timepoint: "1",
+                  pickup_booking_rule_id: "", // ✅ Added column
+                });
+
+                stopTimesData.push({
+                  trip_id: tripId,
+                  arrival_time: arrivalTimeAtSecondStop,
+                  departure_time: arrivalTimeAtSecondStop,
+                  stop_id: pattern.gtfs_arrival_stop_id,
+                  stop_sequence: "2",
+                  pickup_type: "1",
+                  drop_off_type: "0",
+                  timepoint: "1",
+                  pickup_booking_rule_id: "", // ✅ Added column
+                });
+
+                tripDateMap.set(tripId, new Set());
+              }
+              const tripDates = tripDateMap.get(tripId);
+              if (tripDates) {
+                tripDates.add(jour.date);
+              }
             }
-            const tripDates = tripDateMap.get(tripId);
-            if (tripDates) {
-              tripDates.add(jour.date);
-            }
-          });
+          );
         }
       );
     });
   });
+
   tripsData.sort((a, b) => a.trip_id.localeCompare(b.trip_id));
   stopTimesData.sort(
     (a, b) =>
@@ -268,5 +280,6 @@ export function createTripsAndStopTimes(
       }
     });
   });
+
   return { tripsData, stopTimesData, calendarDates };
 }
