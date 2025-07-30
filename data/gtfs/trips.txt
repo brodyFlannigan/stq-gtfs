@@ -229,6 +229,7 @@ isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_213000_regular
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_223000_regular,L'Isle-aux-Coudres,1,0,1,1
 isle-aux-coudres,service_8e1414ac,202507_isle-aux-coudres_SJR_IAC_233000_regular,L'Isle-aux-Coudres,1,0,1,1
 isle-aux-coudres,service_52816d41,202507_isle-aux-coudres_SJR_IAC_243000_regular,L'Isle-aux-Coudres,1,0,1,1
+l-isle-aux-grues-montmagny,service_52816d41,202507_l-isle-aux-grues-montmagny_IAG_MMG_001500_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_ad744dfe,202507_l-isle-aux-grues-montmagny_IAG_MMG_060000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_17b03f55,202507_l-isle-aux-grues-montmagny_IAG_MMG_063000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_2fba4981,202507_l-isle-aux-grues-montmagny_IAG_MMG_064500_regular,Montmagny,0,0,1,1
@@ -256,7 +257,8 @@ l-isle-aux-grues-montmagny,service_352d37b0,202507_l-isle-aux-grues-montmagny_IA
 l-isle-aux-grues-montmagny,service_bbe2c874,202507_l-isle-aux-grues-montmagny_IAG_MMG_130000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_ad06ea67,202507_l-isle-aux-grues-montmagny_IAG_MMG_133000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_10ddfb4c,202507_l-isle-aux-grues-montmagny_IAG_MMG_134500_regular,Montmagny,0,0,1,1
-l-isle-aux-grues-montmagny,service_afaaf7b2,202507_l-isle-aux-grues-montmagny_IAG_MMG_143000_regular,Montmagny,0,0,1,1
+l-isle-aux-grues-montmagny,service_52816d41,202507_l-isle-aux-grues-montmagny_IAG_MMG_141500_regular,Montmagny,0,0,1,1
+l-isle-aux-grues-montmagny,service_fed39a60,202507_l-isle-aux-grues-montmagny_IAG_MMG_143000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_67dacbda,202507_l-isle-aux-grues-montmagny_IAG_MMG_151500_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_89d4aaf6,202507_l-isle-aux-grues-montmagny_IAG_MMG_153000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_cb883cfb,202507_l-isle-aux-grues-montmagny_IAG_MMG_160000_regular,Montmagny,0,0,1,1
@@ -279,6 +281,9 @@ l-isle-aux-grues-montmagny,service_7ec1fa9b,202507_l-isle-aux-grues-montmagny_IA
 l-isle-aux-grues-montmagny,service_9d56920,202507_l-isle-aux-grues-montmagny_IAG_MMG_210000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_9c6ca0d,202507_l-isle-aux-grues-montmagny_IAG_MMG_213000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_352b20bd,202507_l-isle-aux-grues-montmagny_IAG_MMG_214500_regular,Montmagny,0,0,1,1
+l-isle-aux-grues-montmagny,service_25865dd7,202507_l-isle-aux-grues-montmagny_IAG_MMG_241500_regular,Montmagny,0,0,1,1
+l-isle-aux-grues-montmagny,service_bbe2c874,202507_l-isle-aux-grues-montmagny_MMG_IAG_001500_regular,L'Isle-aux-Grues,1,0,1,1
+l-isle-aux-grues-montmagny,service_52816d41,202507_l-isle-aux-grues-montmagny_MMG_IAG_010000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_f6bb3087,202507_l-isle-aux-grues-montmagny_MMG_IAG_060000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_1e06737e,202507_l-isle-aux-grues-montmagny_MMG_IAG_064500_dangerous-cargo,L'Isle-aux-Grues,1,0,2,2
 l-isle-aux-grues-montmagny,service_beaf72ba,202507_l-isle-aux-grues-montmagny_MMG_IAG_064500_regular,L'Isle-aux-Grues,1,0,1,1
@@ -302,7 +307,6 @@ l-isle-aux-grues-montmagny,service_c31aebb0,202507_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_b95d768c,202507_l-isle-aux-grues-montmagny_MMG_IAG_113000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_7ec1fa9b,202507_l-isle-aux-grues-montmagny_MMG_IAG_114500_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_a5943d2c,202507_l-isle-aux-grues-montmagny_MMG_IAG_121500_regular,L'Isle-aux-Grues,1,0,1,1
-l-isle-aux-grues-montmagny,service_52816d41,202507_l-isle-aux-grues-montmagny_MMG_IAG_123000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_29d4ef5,202507_l-isle-aux-grues-montmagny_MMG_IAG_130000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_cb883cfb,202507_l-isle-aux-grues-montmagny_MMG_IAG_133000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_422c102b,202507_l-isle-aux-grues-montmagny_MMG_IAG_134500_regular,L'Isle-aux-Grues,1,0,1,1
@@ -311,7 +315,7 @@ l-isle-aux-grues-montmagny,service_bc8f0c6d,202507_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_10ddfb4c,202507_l-isle-aux-grues-montmagny_MMG_IAG_144500_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_fed39a60,202507_l-isle-aux-grues-montmagny_MMG_IAG_151500_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_2c3011fc,202507_l-isle-aux-grues-montmagny_MMG_IAG_153000_regular,L'Isle-aux-Grues,1,0,1,1
-l-isle-aux-grues-montmagny,service_33a9eb89,202507_l-isle-aux-grues-montmagny_MMG_IAG_160000_regular,L'Isle-aux-Grues,1,0,1,1
+l-isle-aux-grues-montmagny,service_850fb3e5,202507_l-isle-aux-grues-montmagny_MMG_IAG_160000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_89d4aaf6,202507_l-isle-aux-grues-montmagny_MMG_IAG_161500_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_3bf0a88f,202507_l-isle-aux-grues-montmagny_MMG_IAG_163000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_17b03f55,202507_l-isle-aux-grues-montmagny_MMG_IAG_170000_delivery-period,L'Isle-aux-Grues,1,0,1,2
@@ -331,6 +335,8 @@ l-isle-aux-grues-montmagny,service_7ec1fa9b,202507_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_9d56920,202507_l-isle-aux-grues-montmagny_MMG_IAG_214500_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_9c6ca0d,202507_l-isle-aux-grues-montmagny_MMG_IAG_221500_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_352b20bd,202507_l-isle-aux-grues-montmagny_MMG_IAG_223000_regular,L'Isle-aux-Grues,1,0,1,1
+l-isle-aux-grues-montmagny,service_cce5f8e2,202507_l-isle-aux-grues-montmagny_MMG_IAG_241500_regular,L'Isle-aux-Grues,1,0,1,1
+l-isle-aux-grues-montmagny,service_25865dd7,202507_l-isle-aux-grues-montmagny_MMG_IAG_250000_regular,L'Isle-aux-Grues,1,0,1,1
 matane,service_f77289e7,202507_matane_BCO_MTN_110000_regular,Matane,1,1,1,1
 matane,service_3086b466,202507_matane_BCO_MTN_173000_regular,Matane,1,1,1,1
 matane,service_3086b466,202507_matane_GDB_MTN_110000_regular,Matane,1,1,1,1
