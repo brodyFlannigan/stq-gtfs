@@ -787,6 +787,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202508_quebec_QUE_LEV_103000_regular,10:42:00,10:42:00,LEV,2,1,0,1,
 202508_quebec_QUE_LEV_110000_regular,11:00:00,11:00:00,QUE,1,0,1,1,
 202508_quebec_QUE_LEV_110000_regular,11:12:00,11:12:00,LEV,2,1,0,1,
+202508_quebec_QUE_LEV_113000_regular,11:30:00,11:30:00,QUE,1,0,1,1,
+202508_quebec_QUE_LEV_113000_regular,11:42:00,11:42:00,LEV,2,1,0,1,
 202508_quebec_QUE_LEV_114500_regular,11:45:00,11:45:00,QUE,1,0,1,1,
 202508_quebec_QUE_LEV_114500_regular,11:57:00,11:57:00,LEV,2,1,0,1,
 202508_quebec_QUE_LEV_120000_regular,12:00:00,12:00:00,QUE,1,0,1,1,
