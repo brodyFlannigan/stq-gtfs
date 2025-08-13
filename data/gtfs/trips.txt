@@ -15,7 +15,7 @@ h-harbour-chevery,service_b49ee5be,202508_h-harbour-chevery_HHB_CHE_060000_regul
 h-harbour-chevery,service_eb05721e,202508_h-harbour-chevery_HHB_CHE_070000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_55940e3,202508_h-harbour-chevery_HHB_CHE_080000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_808233b6,202508_h-harbour-chevery_HHB_CHE_110000_regular,Chevery,1,0,1,1
-h-harbour-chevery,service_6a627f43,202508_h-harbour-chevery_HHB_CHE_133000_regular,Chevery,1,0,1,1
+h-harbour-chevery,service_6a627f43,202508_h-harbour-chevery_HHB_CHE_123000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_808233b6,202508_h-harbour-chevery_HHB_CHE_140000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_808233b6,202508_h-harbour-chevery_HHB_CHE_160000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_b49ee5be,202508_h-harbour-chevery_HHB_CHE_170000_regular,Chevery,1,0,1,1
@@ -359,7 +359,7 @@ quebec,service_f5b08e3f,202508_quebec_LEV_QUE_093000_regular,Québec,1,1,1,1
 quebec,service_b49ee5be,202508_quebec_LEV_QUE_100000_regular,Québec,1,1,1,1
 quebec,service_d70a216c,202508_quebec_LEV_QUE_103000_regular,Québec,1,1,1,1
 quebec,service_b49ee5be,202508_quebec_LEV_QUE_110000_regular,Québec,1,1,1,1
-quebec,service_76a6f27e,202508_quebec_LEV_QUE_114500_regular,Québec,1,1,1,1
+quebec,service_d70a216c,202508_quebec_LEV_QUE_114500_regular,Québec,1,1,1,1
 quebec,service_b49ee5be,202508_quebec_LEV_QUE_120000_regular,Québec,1,1,1,1
 quebec,service_d70a216c,202508_quebec_LEV_QUE_123000_regular,Québec,1,1,1,1
 quebec,service_b49ee5be,202508_quebec_LEV_QUE_130000_regular,Québec,1,1,1,1
@@ -396,7 +396,7 @@ quebec,service_f5b08e3f,202508_quebec_QUE_LEV_100000_regular,Lévis,0,1,1,1
 quebec,service_b49ee5be,202508_quebec_QUE_LEV_103000_regular,Lévis,0,1,1,1
 quebec,service_d70a216c,202508_quebec_QUE_LEV_110000_regular,Lévis,0,1,1,1
 quebec,service_209c131f,202508_quebec_QUE_LEV_113000_regular,Lévis,0,1,1,1
-quebec,service_76a6f27e,202508_quebec_QUE_LEV_114500_regular,Lévis,0,1,1,1
+quebec,service_d70a216c,202508_quebec_QUE_LEV_114500_regular,Lévis,0,1,1,1
 quebec,service_d70a216c,202508_quebec_QUE_LEV_120000_regular,Lévis,0,1,1,1
 quebec,service_b49ee5be,202508_quebec_QUE_LEV_123000_regular,Lévis,0,1,1,1
 quebec,service_d70a216c,202508_quebec_QUE_LEV_130000_regular,Lévis,0,1,1,1
@@ -413,7 +413,7 @@ quebec,service_22b695d6,202508_quebec_QUE_LEV_180000_regular,Lévis,0,1,1,1
 quebec,service_b49ee5be,202508_quebec_QUE_LEV_183000_regular,Lévis,0,1,1,1
 quebec,service_b49ee5be,202508_quebec_QUE_LEV_193000_regular,Lévis,0,1,1,1
 quebec,service_b49ee5be,202508_quebec_QUE_LEV_203000_regular,Lévis,0,1,1,1
-quebec,service_e0402b04,202508_quebec_QUE_LEV_213000_regular,Lévis,0,1,1,1
+quebec,service_ea40fd24,202508_quebec_QUE_LEV_213000_regular,Lévis,0,1,1,1
 quebec,service_b49ee5be,202508_quebec_QUE_LEV_223000_regular,Lévis,0,1,1,1
 quebec,service_b49ee5be,202508_quebec_QUE_LEV_233000_regular,Lévis,0,1,1,1
 quebec,service_b49ee5be,202508_quebec_QUE_LEV_243000_regular,Lévis,0,1,1,1
@@ -664,7 +664,7 @@ h-harbour-chevery,service_66c57816,202509_h-harbour-chevery_HHB_CHE_060000_regul
 h-harbour-chevery,service_19bcdc3a,202509_h-harbour-chevery_HHB_CHE_070000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_eae6e47b,202509_h-harbour-chevery_HHB_CHE_080000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_ab117a45,202509_h-harbour-chevery_HHB_CHE_110000_regular,Chevery,1,0,1,1
-h-harbour-chevery,service_b1c44f9b,202509_h-harbour-chevery_HHB_CHE_133000_regular,Chevery,1,0,1,1
+h-harbour-chevery,service_b1c44f9b,202509_h-harbour-chevery_HHB_CHE_123000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_ab117a45,202509_h-harbour-chevery_HHB_CHE_140000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_ab117a45,202509_h-harbour-chevery_HHB_CHE_160000_regular,Chevery,1,0,1,1
 h-harbour-chevery,service_66c57816,202509_h-harbour-chevery_HHB_CHE_170000_regular,Chevery,1,0,1,1
