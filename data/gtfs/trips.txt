@@ -212,7 +212,6 @@ l-isle-aux-grues-montmagny,service_dc421ba5,202509_l-isle-aux-grues-montmagny_IA
 l-isle-aux-grues-montmagny,service_53d0d6ab,202509_l-isle-aux-grues-montmagny_IAG_MMG_120000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_454b4a1f,202509_l-isle-aux-grues-montmagny_IAG_MMG_131500_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_d5f4578e,202509_l-isle-aux-grues-montmagny_IAG_MMG_141500_regular,Montmagny,0,0,1,1
-l-isle-aux-grues-montmagny,service_454b4a1f,202509_l-isle-aux-grues-montmagny_IAG_MMG_144500_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_1ef912bf,202509_l-isle-aux-grues-montmagny_IAG_MMG_150000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_3b962b28,202509_l-isle-aux-grues-montmagny_IAG_MMG_153000_regular,Montmagny,0,0,1,1
 l-isle-aux-grues-montmagny,service_d73457d1,202509_l-isle-aux-grues-montmagny_IAG_MMG_160000_regular,Montmagny,0,0,1,1
@@ -262,7 +261,6 @@ l-isle-aux-grues-montmagny,service_25e422f1,202509_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_dc421ba5,202509_l-isle-aux-grues-montmagny_MMG_IAG_113000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_ab452b33,202509_l-isle-aux-grues-montmagny_MMG_IAG_124500_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_324c7a89,202509_l-isle-aux-grues-montmagny_MMG_IAG_134500_regular,L'Isle-aux-Grues,1,0,1,1
-l-isle-aux-grues-montmagny,service_454b4a1f,202509_l-isle-aux-grues-montmagny_MMG_IAG_140000_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_d5f4578e,202509_l-isle-aux-grues-montmagny_MMG_IAG_150000_delivery-period,L'Isle-aux-Grues,1,0,1,2
 l-isle-aux-grues-montmagny,service_f9413fb8,202509_l-isle-aux-grues-montmagny_MMG_IAG_154500_regular,L'Isle-aux-Grues,1,0,1,1
 l-isle-aux-grues-montmagny,service_a2f36718,202509_l-isle-aux-grues-montmagny_MMG_IAG_160000_regular,L'Isle-aux-Grues,1,0,1,1
@@ -314,7 +312,7 @@ quebec,service_19bcdc3a,202509_quebec_LEV_QUE_093000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_100000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_103000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_110000_regular,Québec,1,1,1,1
-quebec,service_66c57816,202509_quebec_LEV_QUE_114500_regular,Québec,1,1,1,1
+quebec,service_a24702a6,202509_quebec_LEV_QUE_114500_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_120000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_123000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_130000_regular,Québec,1,1,1,1
@@ -350,7 +348,7 @@ quebec,service_66c57816,202509_quebec_QUE_LEV_093000_regular,Lévis,0,1,1,1
 quebec,service_19bcdc3a,202509_quebec_QUE_LEV_100000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_103000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_110000_regular,Lévis,0,1,1,1
-quebec,service_66c57816,202509_quebec_QUE_LEV_114500_regular,Lévis,0,1,1,1
+quebec,service_a24702a6,202509_quebec_QUE_LEV_114500_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_120000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_123000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_130000_regular,Lévis,0,1,1,1
