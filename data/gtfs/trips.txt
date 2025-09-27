@@ -308,7 +308,7 @@ quebec,service_19bcdc3a,202509_quebec_LEV_QUE_073000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_080000_regular,Québec,1,1,1,1
 quebec,service_19bcdc3a,202509_quebec_LEV_QUE_083000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_090000_regular,Québec,1,1,1,1
-quebec,service_19bcdc3a,202509_quebec_LEV_QUE_093000_regular,Québec,1,1,1,1
+quebec,service_4bb766fe,202509_quebec_LEV_QUE_093000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_100000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_103000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_110000_regular,Québec,1,1,1,1
@@ -344,7 +344,7 @@ quebec,service_66c57816,202509_quebec_QUE_LEV_073000_regular,Lévis,0,1,1,1
 quebec,service_19bcdc3a,202509_quebec_QUE_LEV_080000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_083000_regular,Lévis,0,1,1,1
 quebec,service_19bcdc3a,202509_quebec_QUE_LEV_090000_regular,Lévis,0,1,1,1
-quebec,service_66c57816,202509_quebec_QUE_LEV_093000_regular,Lévis,0,1,1,1
+quebec,service_387ec595,202509_quebec_QUE_LEV_093000_regular,Lévis,0,1,1,1
 quebec,service_19bcdc3a,202509_quebec_QUE_LEV_100000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_103000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_110000_regular,Lévis,0,1,1,1
@@ -919,14 +919,14 @@ l-isle-aux-grues-montmagny,service_9c2a7d9f,202510_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_f55bb851,202510_l-isle-aux-grues-montmagny_MMG_IAG_234500_regular,L'Isle-aux-Grues,1,0,1,1
 matane,service_99b10b43,202510_matane_BCO_MTN_110000_regular,Matane,1,1,1,1
 matane,service_ebd27c9c,202510_matane_BCO_MTN_170000_regular,Matane,1,1,1,1
-matane,service_440688d7,202510_matane_BCO_MTN_173000_regular,Matane,1,1,1,1
-matane,service_b7806c47,202510_matane_GDB_MTN_110000_regular,Matane,1,1,1,1
+matane,service_d738ca9d,202510_matane_BCO_MTN_173000_regular,Matane,1,1,1,1
+matane,service_24378625,202510_matane_GDB_MTN_110000_regular,Matane,1,1,1,1
 matane,service_c7c198bc,202510_matane_GDB_MTN_170000_regular,Matane,1,1,1,1
 matane,service_eb91c8d3,202510_matane_GDB_MTN_173000_regular,Matane,1,1,1,1
 matane,service_cd6b2b1d,202510_matane_MTN_BCO_080000_regular,Baie-Comeau,0,1,1,1
 matane,service_564877ce,202510_matane_MTN_BCO_140000_regular,Baie-Comeau,0,1,1,1
-matane,service_440688d7,202510_matane_MTN_BCO_141500_regular,Baie-Comeau,0,1,1,1
-matane,service_b5be0a19,202510_matane_MTN_GDB_080000_regular,Godbout,0,1,1,1
+matane,service_d738ca9d,202510_matane_MTN_BCO_141500_regular,Baie-Comeau,0,1,1,1
+matane,service_c5048fa5,202510_matane_MTN_GDB_080000_regular,Godbout,0,1,1,1
 matane,service_38aea050,202510_matane_MTN_GDB_140000_regular,Godbout,0,1,1,1
 matane,service_eb91c8d3,202510_matane_MTN_GDB_141500_regular,Godbout,0,1,1,1
 quebec,service_60675250,202510_quebec_LEV_QUE_000000_regular,Québec,1,1,1,1
