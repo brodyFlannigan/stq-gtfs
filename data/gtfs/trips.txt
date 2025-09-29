@@ -312,7 +312,7 @@ quebec,service_4bb766fe,202509_quebec_LEV_QUE_093000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_100000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_103000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_110000_regular,Québec,1,1,1,1
-quebec,service_a24702a6,202509_quebec_LEV_QUE_114500_regular,Québec,1,1,1,1
+quebec,service_b19802bd,202509_quebec_LEV_QUE_114500_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_120000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_123000_regular,Québec,1,1,1,1
 quebec,service_66c57816,202509_quebec_LEV_QUE_130000_regular,Québec,1,1,1,1
@@ -348,7 +348,7 @@ quebec,service_387ec595,202509_quebec_QUE_LEV_093000_regular,Lévis,0,1,1,1
 quebec,service_19bcdc3a,202509_quebec_QUE_LEV_100000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_103000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_110000_regular,Lévis,0,1,1,1
-quebec,service_a24702a6,202509_quebec_QUE_LEV_114500_regular,Lévis,0,1,1,1
+quebec,service_b19802bd,202509_quebec_QUE_LEV_114500_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_120000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_123000_regular,Lévis,0,1,1,1
 quebec,service_66c57816,202509_quebec_QUE_LEV_130000_regular,Lévis,0,1,1,1
@@ -929,11 +929,11 @@ matane,service_d738ca9d,202510_matane_MTN_BCO_141500_regular,Baie-Comeau,0,1,1,1
 matane,service_c5048fa5,202510_matane_MTN_GDB_080000_regular,Godbout,0,1,1,1
 matane,service_38aea050,202510_matane_MTN_GDB_140000_regular,Godbout,0,1,1,1
 matane,service_eb91c8d3,202510_matane_MTN_GDB_141500_regular,Godbout,0,1,1,1
-quebec,service_60675250,202510_quebec_LEV_QUE_000000_regular,Québec,1,1,1,1
+quebec,service_a5d4b986,202510_quebec_LEV_QUE_000000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_010000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_020000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_060000_regular,Québec,1,1,1,1
-quebec,service_3004ba54,202510_quebec_LEV_QUE_064000_regular,Québec,1,1,1,1
+quebec,service_4940807a,202510_quebec_LEV_QUE_064000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_070000_regular,Québec,1,1,1,1
 quebec,service_3465dd95,202510_quebec_LEV_QUE_073000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_080000_regular,Québec,1,1,1,1
@@ -943,7 +943,6 @@ quebec,service_3465dd95,202510_quebec_LEV_QUE_093000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_100000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_103000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_110000_regular,Québec,1,1,1,1
-quebec,service_a5d4b986,202510_quebec_LEV_QUE_114500_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_120000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_123000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_130000_regular,Québec,1,1,1,1
@@ -962,15 +961,15 @@ quebec,service_a5d4b986,202510_quebec_LEV_QUE_200000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_210000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_220000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_230000_regular,Québec,1,1,1,1
-quebec,service_6ef6e74,202510_quebec_LEV_QUE_240000_regular,Québec,1,1,1,1
+quebec,service_a5d4b986,202510_quebec_LEV_QUE_240000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_250000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_LEV_QUE_260000_regular,Québec,1,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_003000_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_013000_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_022000_regular,Lévis,0,1,1,1
-quebec,service_3004ba54,202510_quebec_QUE_LEV_062000_regular,Lévis,0,1,1,1
-quebec,service_ab749571,202510_quebec_QUE_LEV_063000_regular,Lévis,0,1,1,1
-quebec,service_3004ba54,202510_quebec_QUE_LEV_070000_regular,Lévis,0,1,1,1
+quebec,service_4940807a,202510_quebec_QUE_LEV_062000_regular,Lévis,0,1,1,1
+quebec,service_fc3236aa,202510_quebec_QUE_LEV_063000_regular,Lévis,0,1,1,1
+quebec,service_4940807a,202510_quebec_QUE_LEV_070000_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_073000_regular,Lévis,0,1,1,1
 quebec,service_3465dd95,202510_quebec_QUE_LEV_080000_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_083000_regular,Lévis,0,1,1,1
@@ -979,7 +978,6 @@ quebec,service_a5d4b986,202510_quebec_QUE_LEV_093000_regular,Lévis,0,1,1,1
 quebec,service_3465dd95,202510_quebec_QUE_LEV_100000_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_103000_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_110000_regular,Lévis,0,1,1,1
-quebec,service_a5d4b986,202510_quebec_QUE_LEV_114500_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_120000_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_123000_regular,Lévis,0,1,1,1
 quebec,service_a5d4b986,202510_quebec_QUE_LEV_130000_regular,Lévis,0,1,1,1
