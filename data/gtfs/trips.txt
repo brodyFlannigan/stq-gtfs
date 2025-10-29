@@ -914,7 +914,7 @@ matane,service_9ac7e4ff,202511_matane_MTN_BCO_140000_regular,Baie-Comeau,0,1,1,1
 matane,service_a81946cd,202511_matane_MTN_GDB_080000_regular,Godbout,0,1,1,1
 matane,service_baca9292,202511_matane_MTN_GDB_140000_regular,Godbout,0,1,1,1
 quebec,service_12118996,202511_quebec_LEV_QUE_000000_regular,Québec,1,1,1,1
-quebec,service_8361f84c,202511_quebec_LEV_QUE_010000_regular,Québec,1,1,1,1
+quebec,service_3f080508,202511_quebec_LEV_QUE_010000_regular,Québec,1,1,1,1
 quebec,service_12118996,202511_quebec_LEV_QUE_020000_regular,Québec,1,1,1,1
 quebec,service_12118996,202511_quebec_LEV_QUE_060000_regular,Québec,1,1,1,1
 quebec,service_6d6b0c0,202511_quebec_LEV_QUE_064000_regular,Québec,1,1,1,1
@@ -947,10 +947,10 @@ quebec,service_12118996,202511_quebec_LEV_QUE_210000_regular,Québec,1,1,1,1
 quebec,service_12118996,202511_quebec_LEV_QUE_220000_regular,Québec,1,1,1,1
 quebec,service_12118996,202511_quebec_LEV_QUE_230000_regular,Québec,1,1,1,1
 quebec,service_12118996,202511_quebec_LEV_QUE_240000_regular,Québec,1,1,1,1
-quebec,service_7ec2ee69,202511_quebec_LEV_QUE_250000_regular,Québec,1,1,1,1
+quebec,service_97d6b936,202511_quebec_LEV_QUE_250000_regular,Québec,1,1,1,1
 quebec,service_12118996,202511_quebec_LEV_QUE_260000_regular,Québec,1,1,1,1
 quebec,service_12118996,202511_quebec_QUE_LEV_003000_regular,Lévis,0,1,1,1
-quebec,service_ae99b123,202511_quebec_QUE_LEV_013000_regular,Lévis,0,1,1,1
+quebec,service_3f080508,202511_quebec_QUE_LEV_013000_regular,Lévis,0,1,1,1
 quebec,service_12118996,202511_quebec_QUE_LEV_022000_regular,Lévis,0,1,1,1
 quebec,service_6d6b0c0,202511_quebec_QUE_LEV_062000_regular,Lévis,0,1,1,1
 quebec,service_689faadb,202511_quebec_QUE_LEV_063000_regular,Lévis,0,1,1,1
@@ -984,7 +984,7 @@ quebec,service_12118996,202511_quebec_QUE_LEV_213000_regular,Lévis,0,1,1,1
 quebec,service_12118996,202511_quebec_QUE_LEV_223000_regular,Lévis,0,1,1,1
 quebec,service_12118996,202511_quebec_QUE_LEV_233000_regular,Lévis,0,1,1,1
 quebec,service_12118996,202511_quebec_QUE_LEV_243000_regular,Lévis,0,1,1,1
-quebec,service_a51d3f08,202511_quebec_QUE_LEV_253000_regular,Lévis,0,1,1,1
+quebec,service_97d6b936,202511_quebec_QUE_LEV_253000_regular,Lévis,0,1,1,1
 quebec,service_12118996,202511_quebec_QUE_LEV_262000_regular,Lévis,0,1,1,1
 riv-st-augustin,service_f5ba6ea,202511_riv-st-augustin_PKS_SAG_051500_regular,Saint-Augustin,0,2,1,1
 riv-st-augustin,service_64c1274f,202511_riv-st-augustin_PKS_SAG_053000_regular,Saint-Augustin,0,2,1,1
