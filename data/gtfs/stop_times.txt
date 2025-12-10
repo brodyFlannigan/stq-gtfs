@@ -85,6 +85,8 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_t
 202512_isle-aux-coudres_SJR_IAC_203000_regular,20:50:00,20:50:00,IAC,2,1,0,1,
 202512_isle-aux-coudres_SJR_IAC_213000_regular,21:30:00,21:30:00,SJR,1,0,1,1,
 202512_isle-aux-coudres_SJR_IAC_213000_regular,21:50:00,21:50:00,IAC,2,1,0,1,
+202512_isle-aux-coudres_SJR_IAC_223000_regular,22:30:00,22:30:00,SJR,1,0,1,1,
+202512_isle-aux-coudres_SJR_IAC_223000_regular,22:50:00,22:50:00,IAC,2,1,0,1,
 202512_isle-aux-coudres_SJR_IAC_233000_regular,23:30:00,23:30:00,SJR,1,0,1,1,
 202512_isle-aux-coudres_SJR_IAC_233000_regular,23:50:00,23:50:00,IAC,2,1,0,1,
 202512_l-isle-aux-grues-montmagny_IAG_MMG_054500_regular,05:45:00,05:45:00,IAG,1,0,1,1,
