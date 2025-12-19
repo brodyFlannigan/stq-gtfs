@@ -70,11 +70,11 @@ l-isle-aux-grues-montmagny,service_7b9453eb,202512_l-isle-aux-grues-montmagny_MM
 l-isle-aux-grues-montmagny,service_2f388455,202512_l-isle-aux-grues-montmagny_MMG_IAG_181500_regular,L'Isle-aux-Grues,1,0,1,1
 matane,service_964dc96b,202512_matane_BCO_MTN_110000_regular,Matane,1,1,1,1
 matane,service_8fb96731,202512_matane_BCO_MTN_170000_regular,Matane,1,1,1,1
-matane,service_ec5fb9de,202512_matane_GDB_MTN_110000_regular,Matane,1,1,1,1
+matane,service_4fc99192,202512_matane_GDB_MTN_110000_regular,Matane,1,1,1,1
 matane,service_f48ded9c,202512_matane_GDB_MTN_170000_regular,Matane,1,1,1,1
 matane,service_4472d3c2,202512_matane_MTN_BCO_080000_regular,Baie-Comeau,0,1,1,1
 matane,service_3619b675,202512_matane_MTN_BCO_140000_regular,Baie-Comeau,0,1,1,1
-matane,service_6622721b,202512_matane_MTN_GDB_080000_regular,Godbout,0,1,1,1
+matane,service_eb639643,202512_matane_MTN_GDB_080000_regular,Godbout,0,1,1,1
 matane,service_964dc96b,202512_matane_MTN_GDB_140000_regular,Godbout,0,1,1,1
 quebec,service_98fa586e,202512_quebec_LEV_QUE_000000_regular,Québec,1,1,1,1
 quebec,service_a1f17e0,202512_quebec_LEV_QUE_010000_regular,Québec,1,1,1,1
