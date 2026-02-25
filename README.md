@@ -1,10 +1,15 @@
+> [!WARNING] Ce jeu de données est archivé!
+> La STQ publie maintenant un jeu de données GTFS officiel. Ce jeu de données n'est donc plus supporté/mis à jour. Les données GTFS officielles de la STQ sont disponibles ici: https://www.donneesquebec.ca/recherche/dataset/stq-gtfs-pour-les-traverses
+
 # STQ GTFS
 
 Générateur de données GTFS pour les services de traversier de la Société des Traversiers du Québec (STQ)
 
-***
+---
+
 Ce programme n'est aucunement cautionné, sanctionné ou approuvé par la Société des traversiers du Québec (STQ). Les données sont fournies telles quelles, sans aucune garantie d'exactitude ou de disponibilité.
-***
+
+---
 
 ## Installation & Utilisation
 
